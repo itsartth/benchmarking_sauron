@@ -1,0 +1,761 @@
+NodeId	Chain	Position	Residue	Type	Dssp	Degree	Bfactor_CA	x	y	z	pdbFileName	Model
+A:1:_:ASN	A	1	ASN	RES	 	4	0.000	-8.608	3.135	-1.618	input_file.cif#1.A	1
+A:2:_:LEU	A	2	LEU	RES	H	2	0.000	-4.923	4.002	-2.452	input_file.cif#2.A	1
+A:3:_:TYR	A	3	TYR	RES	H	6	0.000	-3.690	2.738	0.981	input_file.cif#3.A	1
+A:4:_:ILE	A	4	ILE	RES	H	4	0.000	-5.857	-0.449	0.613	input_file.cif#4.A	1
+A:5:_:GLN	A	5	GLN	RES	H	3	0.000	-4.122	-1.167	-2.743	input_file.cif#5.A	1
+A:6:_:TRP	A	6	TRP	RES	H	12	0.000	-0.716	-0.631	-0.993	input_file.cif#6.A	1
+A:7:_:LEU	A	7	LEU	RES	H	3	0.000	-1.641	-2.932	1.963	input_file.cif#7.A	1
+A:8:_:LYS	A	8	LYS	RES	H	3	0.000	-3.024	-5.791	-0.269	input_file.cif#8.A	1
+A:9:_:ASP	A	9	ASP	RES	H	1	0.000	0.466	-6.016	-1.905	input_file.cif#9.A	1
+A:10:_:GLY	A	10	GLY	RES	H	3	0.000	2.060	-6.618	1.593	input_file.cif#10.A	1
+A:11:_:GLY	A	11	GLY	RES	G	2	0.000	2.626	-2.967	2.723	input_file.cif#11.A	1
+A:12:_:PRO	A	12	PRO	RES	G	0	0.000	6.333	-2.533	3.806	input_file.cif#12.A	1
+A:13:_:SER	A	13	SER	RES	G	2	0.000	7.049	-6.179	2.704	input_file.cif#13.A	1
+A:14:_:SER	A	14	SER	RES	G	1	0.000	6.389	-5.315	-1.015	input_file.cif#14.A	1
+A:15:_:GLY	A	15	GLY	RES	T	0	0.000	9.451	-3.116	-1.870	input_file.cif#15.A	1
+A:16:_:ARG	A	16	ARG	RES	 	2	0.000	7.289	0.084	-2.054	input_file.cif#16.A	1
+A:17:_:PRO	A	17	PRO	RES	 	1	0.000	6.782	3.088	0.345	input_file.cif#17.A	1
+A:18:_:PRO	A	18	PRO	RES	 	0	0.000	3.287	4.031	1.686	input_file.cif#18.A	1
+A:19:_:PRO	A	19	PRO	RES	 	1	0.000	1.185	6.543	-0.353	input_file.cif#19.A	1
+A:20:_:SER	A	20	SER	RES	 	0	0.000	0.852	10.027	1.285	input_file.cif#20.A	1
+A:1:_:ASN	A	1	ASN	RES	 	1	0.000	-7.682	6.025	-0.010	input_file.cif#1.A	2
+A:2:_:LEU	A	2	LEU	RES	H	2	0.000	-5.020	4.162	-2.130	input_file.cif#2.A	2
+A:3:_:TYR	A	3	TYR	RES	H	6	0.000	-3.537	2.636	1.105	input_file.cif#3.A	2
+A:4:_:ILE	A	4	ILE	RES	H	2	0.000	-5.914	-0.393	0.686	input_file.cif#4.A	2
+A:5:_:GLN	A	5	GLN	RES	H	1	0.000	-4.253	-1.225	-2.692	input_file.cif#5.A	2
+A:6:_:TRP	A	6	TRP	RES	H	8	0.000	-0.791	-0.749	-1.090	input_file.cif#6.A	2
+A:7:_:LEU	A	7	LEU	RES	H	3	0.000	-1.701	-3.105	1.831	input_file.cif#7.A	2
+A:8:_:LYS	A	8	LYS	RES	H	1	0.000	-2.916	-5.759	-0.732	input_file.cif#8.A	2
+A:9:_:ASP	A	9	ASP	RES	H	3	0.000	0.739	-5.926	-1.971	input_file.cif#9.A	2
+A:10:_:GLY	A	10	GLY	RES	H	2	0.000	1.973	-6.740	1.632	input_file.cif#10.A	2
+A:11:_:GLY	A	11	GLY	RES	G	3	0.000	2.505	-3.133	2.918	input_file.cif#11.A	2
+A:12:_:PRO	A	12	PRO	RES	G	0	0.000	6.148	-2.595	4.163	input_file.cif#12.A	2
+A:13:_:SER	A	13	SER	RES	G	1	0.000	7.056	-6.106	2.818	input_file.cif#13.A	2
+A:14:_:SER	A	14	SER	RES	G	3	0.000	6.302	-5.007	-0.834	input_file.cif#14.A	2
+A:15:_:GLY	A	15	GLY	RES	S	0	0.000	9.445	-2.839	-1.497	input_file.cif#15.A	2
+A:16:_:ARG	A	16	ARG	RES	S	2	0.000	7.267	0.167	-2.623	input_file.cif#16.A	2
+A:17:_:PRO	A	17	PRO	RES	 	0	0.000	6.871	2.981	0.038	input_file.cif#17.A	2
+A:18:_:PRO	A	18	PRO	RES	 	1	0.000	3.403	3.904	1.495	input_file.cif#18.A	2
+A:19:_:PRO	A	19	PRO	RES	 	1	0.000	1.125	6.268	-0.557	input_file.cif#19.A	2
+A:20:_:SER	A	20	SER	RES	 	0	0.000	0.696	9.699	1.148	input_file.cif#20.A	2
+A:1:_:ASN	A	1	ASN	RES	 	0	0.000	-7.389	6.514	-0.405	input_file.cif#1.A	3
+A:2:_:LEU	A	2	LEU	RES	G	2	0.000	-4.832	4.056	-2.001	input_file.cif#2.A	3
+A:3:_:TYR	A	3	TYR	RES	H	3	0.000	-3.584	2.609	1.367	input_file.cif#3.A	3
+A:4:_:ILE	A	4	ILE	RES	H	2	0.000	-5.832	-0.507	0.951	input_file.cif#4.A	3
+A:5:_:GLN	A	5	GLN	RES	H	2	0.000	-4.335	-1.103	-2.553	input_file.cif#5.A	3
+A:6:_:TRP	A	6	TRP	RES	H	9	0.000	-0.771	-0.717	-1.152	input_file.cif#6.A	3
+A:7:_:LEU	A	7	LEU	RES	H	3	0.000	-1.537	-3.007	1.858	input_file.cif#7.A	3
+A:8:_:LYS	A	8	LYS	RES	H	3	0.000	-2.930	-5.631	-0.629	input_file.cif#8.A	3
+A:9:_:ASP	A	9	ASP	RES	H	3	0.000	0.627	-5.715	-2.141	input_file.cif#9.A	3
+A:10:_:GLY	A	10	GLY	RES	H	2	0.000	1.917	-6.656	1.417	input_file.cif#10.A	3
+A:11:_:GLY	A	11	GLY	RES	H	4	0.000	2.643	-3.083	2.643	input_file.cif#11.A	3
+A:12:_:PRO	A	12	PRO	RES	H	3	0.000	6.302	-2.829	3.917	input_file.cif#12.A	3
+A:13:_:SER	A	13	SER	RES	H	1	0.000	7.055	-6.413	2.675	input_file.cif#13.A	3
+A:14:_:SER	A	14	SER	RES	H	3	0.000	6.562	-5.254	-0.977	input_file.cif#14.A	3
+A:15:_:GLY	A	15	GLY	RES	 	2	0.000	9.452	-2.715	-0.493	input_file.cif#15.A	3
+A:16:_:ARG	A	16	ARG	RES	S	1	0.000	7.509	0.078	-2.349	input_file.cif#16.A	3
+A:17:_:PRO	A	17	PRO	RES	 	0	0.000	6.670	3.081	-0.030	input_file.cif#17.A	3
+A:18:_:PRO	A	18	PRO	RES	 	0	0.000	3.015	3.863	0.981	input_file.cif#18.A	3
+A:19:_:PRO	A	19	PRO	RES	 	1	0.000	0.774	6.401	-0.902	input_file.cif#19.A	3
+A:20:_:SER	A	20	SER	RES	 	0	0.000	0.349	8.586	2.279	input_file.cif#20.A	3
+A:1:_:ASN	A	1	ASN	RES	 	3	0.000	-7.990	4.067	-1.611	input_file.cif#1.A	4
+A:2:_:LEU	A	2	LEU	RES	H	2	0.000	-4.255	3.853	-2.649	input_file.cif#2.A	4
+A:3:_:TYR	A	3	TYR	RES	H	4	0.000	-3.352	2.587	0.881	input_file.cif#3.A	4
+A:4:_:ILE	A	4	ILE	RES	H	3	0.000	-5.705	-0.444	0.348	input_file.cif#4.A	4
+A:5:_:GLN	A	5	GLN	RES	H	2	0.000	-3.712	-1.519	-2.775	input_file.cif#5.A	4
+A:6:_:TRP	A	6	TRP	RES	H	8	0.000	-0.400	-0.841	-0.917	input_file.cif#6.A	4
+A:7:_:LEU	A	7	LEU	RES	H	3	0.000	-1.529	-3.019	2.059	input_file.cif#7.A	4
+A:8:_:LYS	A	8	LYS	RES	H	1	0.000	-3.000	-5.710	-0.323	input_file.cif#8.A	4
+A:9:_:ASP	A	9	ASP	RES	H	3	0.000	0.519	-6.369	-1.719	input_file.cif#9.A	4
+A:10:_:GLY	A	10	GLY	RES	H	2	0.000	1.940	-6.628	1.899	input_file.cif#10.A	4
+A:11:_:GLY	A	11	GLY	RES	H	6	0.000	2.501	-2.933	2.929	input_file.cif#11.A	4
+A:12:_:PRO	A	12	PRO	RES	H	0	0.000	6.177	-2.830	4.177	input_file.cif#12.A	4
+A:13:_:SER	A	13	SER	RES	H	1	0.000	6.859	-6.106	2.234	input_file.cif#13.A	4
+A:14:_:SER	A	14	SER	RES	H	8	0.000	5.483	-4.641	-1.100	input_file.cif#14.A	4
+A:15:_:GLY	A	15	GLY	RES	S	0	0.000	8.865	-3.074	-2.168	input_file.cif#15.A	4
+A:16:_:ARG	A	16	ARG	RES	S	1	0.000	7.291	0.476	-2.303	input_file.cif#16.A	4
+A:17:_:PRO	A	17	PRO	RES	 	0	0.000	6.834	3.351	0.272	input_file.cif#17.A	4
+A:18:_:PRO	A	18	PRO	RES	 	2	0.000	3.330	4.041	1.763	input_file.cif#18.A	4
+A:19:_:PRO	A	19	PRO	RES	 	1	0.000	1.089	6.605	-0.071	input_file.cif#19.A	4
+A:20:_:SER	A	20	SER	RES	 	0	0.000	0.156	9.787	1.896	input_file.cif#20.A	4
+A:1:_:ASN	A	1	ASN	RES	 	1	0.000	-7.203	6.342	-0.567	input_file.cif#1.A	5
+A:2:_:LEU	A	2	LEU	RES	 	1	0.000	-4.612	4.045	-2.368	input_file.cif#2.A	5
+A:3:_:TYR	A	3	TYR	RES	H	3	0.000	-3.488	2.754	1.113	input_file.cif#3.A	5
+A:4:_:ILE	A	4	ILE	RES	H	2	0.000	-5.894	-0.275	0.884	input_file.cif#4.A	5
+A:5:_:GLN	A	5	GLN	RES	H	2	0.000	-4.405	-1.359	-2.496	input_file.cif#5.A	5
+A:6:_:TRP	A	6	TRP	RES	H	8	0.000	-0.858	-0.716	-1.118	input_file.cif#6.A	5
+A:7:_:LEU	A	7	LEU	RES	H	2	0.000	-1.603	-2.983	1.905	input_file.cif#7.A	5
+A:8:_:LYS	A	8	LYS	RES	H	3	0.000	-2.936	-5.625	-0.601	input_file.cif#8.A	5
+A:9:_:ASP	A	9	ASP	RES	H	2	0.000	0.625	-5.836	-2.086	input_file.cif#9.A	5
+A:10:_:GLY	A	10	GLY	RES	H	1	0.000	1.964	-6.697	1.458	input_file.cif#10.A	5
+A:11:_:GLY	A	11	GLY	RES	G	1	0.000	2.530	-3.141	2.879	input_file.cif#11.A	5
+A:12:_:PRO	A	12	PRO	RES	H	1	0.000	6.226	-2.519	3.940	input_file.cif#12.A	5
+A:13:_:SER	A	13	SER	RES	H	0	0.000	7.176	-6.096	2.804	input_file.cif#13.A	5
+A:14:_:SER	A	14	SER	RES	H	0	0.000	6.428	-5.207	-0.894	input_file.cif#14.A	5
+A:15:_:GLY	A	15	GLY	RES	H	0	0.000	9.546	-3.129	-1.849	input_file.cif#15.A	5
+A:16:_:ARG	A	16	ARG	RES	S	2	0.000	7.450	0.119	-2.030	input_file.cif#16.A	5
+A:17:_:PRO	A	17	PRO	RES	 	0	0.000	6.698	3.071	0.368	input_file.cif#17.A	5
+A:18:_:PRO	A	18	PRO	RES	 	2	0.000	3.105	3.956	1.499	input_file.cif#18.A	5
+A:19:_:PRO	A	19	PRO	RES	 	1	0.000	0.959	6.296	-0.711	input_file.cif#19.A	5
+A:20:_:SER	A	20	SER	RES	 	0	0.000	0.712	9.526	1.401	input_file.cif#20.A	5
+A:1:_:ASN	A	1	ASN	RES	 	1	0.000	-7.252	6.475	0.201	input_file.cif#1.A	6
+A:2:_:LEU	A	2	LEU	RES	G	4	0.000	-4.893	4.279	-2.026	input_file.cif#2.A	6
+A:3:_:TYR	A	3	TYR	RES	H	4	0.000	-3.496	2.595	1.193	input_file.cif#3.A	6
+A:4:_:ILE	A	4	ILE	RES	H	2	0.000	-5.882	-0.413	0.700	input_file.cif#4.A	6
+A:5:_:GLN	A	5	GLN	RES	H	4	0.000	-4.148	-1.213	-2.650	input_file.cif#5.A	6
+A:6:_:TRP	A	6	TRP	RES	H	10	0.000	-0.698	-0.699	-1.033	input_file.cif#6.A	6
+A:7:_:LEU	A	7	LEU	RES	H	3	0.000	-1.656	-3.076	1.851	input_file.cif#7.A	6
+A:8:_:LYS	A	8	LYS	RES	H	2	0.000	-2.868	-5.634	-0.809	input_file.cif#8.A	6
+A:9:_:ASP	A	9	ASP	RES	H	4	0.000	0.784	-5.780	-2.096	input_file.cif#9.A	6
+A:10:_:GLY	A	10	GLY	RES	H	1	0.000	1.937	-6.750	1.490	input_file.cif#10.A	6
+A:11:_:GLY	A	11	GLY	RES	G	3	0.000	2.470	-3.241	3.034	input_file.cif#11.A	6
+A:12:_:PRO	A	12	PRO	RES	G	0	0.000	6.138	-2.627	4.199	input_file.cif#12.A	6
+A:13:_:SER	A	13	SER	RES	G	0	0.000	7.189	-6.103	2.872	input_file.cif#13.A	6
+A:14:_:SER	A	14	SER	RES	G	2	0.000	6.283	-4.978	-0.737	input_file.cif#14.A	6
+A:15:_:GLY	A	15	GLY	RES	S	0	0.000	9.471	-2.894	-1.454	input_file.cif#15.A	6
+A:16:_:ARG	A	16	ARG	RES	S	4	0.000	7.226	0.051	-2.611	input_file.cif#16.A	6
+A:17:_:PRO	A	17	PRO	RES	 	1	0.000	6.733	2.965	-0.077	input_file.cif#17.A	6
+A:18:_:PRO	A	18	PRO	RES	 	1	0.000	3.257	3.860	1.368	input_file.cif#18.A	6
+A:19:_:PRO	A	19	PRO	RES	 	2	0.000	1.048	6.326	-0.630	input_file.cif#19.A	6
+A:20:_:SER	A	20	SER	RES	 	0	0.000	-0.233	8.139	2.544	input_file.cif#20.A	6
+A:1:_:ASN	A	1	ASN	RES	 	1	0.000	-7.549	5.998	-0.581	input_file.cif#1.A	7
+A:2:_:LEU	A	2	LEU	RES	H	2	0.000	-4.705	4.017	-2.308	input_file.cif#2.A	7
+A:3:_:TYR	A	3	TYR	RES	H	4	0.000	-3.503	2.730	1.149	input_file.cif#3.A	7
+A:4:_:ILE	A	4	ILE	RES	H	2	0.000	-5.833	-0.356	0.888	input_file.cif#4.A	7
+A:5:_:GLN	A	5	GLN	RES	H	1	0.000	-4.375	-1.125	-2.597	input_file.cif#5.A	7
+A:6:_:TRP	A	6	TRP	RES	H	6	0.000	-0.803	-0.688	-1.216	input_file.cif#6.A	7
+A:7:_:LEU	A	7	LEU	RES	H	2	0.000	-1.618	-3.061	1.719	input_file.cif#7.A	7
+A:8:_:LYS	A	8	LYS	RES	H	1	0.000	-2.926	-5.712	-0.805	input_file.cif#8.A	7
+A:9:_:ASP	A	9	ASP	RES	H	1	0.000	0.679	-6.439	-1.960	input_file.cif#9.A	7
+A:10:_:GLY	A	10	GLY	RES	H	2	0.000	2.154	-6.771	1.590	input_file.cif#10.A	7
+A:11:_:GLY	A	11	GLY	RES	H	3	0.000	2.511	-3.295	3.240	input_file.cif#11.A	7
+A:12:_:PRO	A	12	PRO	RES	H	0	0.000	6.237	-2.490	4.008	input_file.cif#12.A	7
+A:13:_:SER	A	13	SER	RES	H	1	0.000	7.226	-5.980	2.655	input_file.cif#13.A	7
+A:14:_:SER	A	14	SER	RES	H	3	0.000	6.003	-4.909	-0.880	input_file.cif#14.A	7
+A:15:_:GLY	A	15	GLY	RES	H	0	0.000	9.347	-3.207	-1.825	input_file.cif#15.A	7
+A:16:_:ARG	A	16	ARG	RES	S	1	0.000	7.572	0.231	-2.153	input_file.cif#16.A	7
+A:17:_:PRO	A	17	PRO	RES	 	0	0.000	6.723	3.073	0.357	input_file.cif#17.A	7
+A:18:_:PRO	A	18	PRO	RES	 	1	0.000	3.065	3.925	1.293	input_file.cif#18.A	7
+A:19:_:PRO	A	19	PRO	RES	 	0	0.000	0.934	6.590	-0.541	input_file.cif#19.A	7
+A:20:_:SER	A	20	SER	RES	 	1	0.000	0.332	8.504	2.776	input_file.cif#20.A	7
+A:1:_:ASN	A	1	ASN	RES	 	3	0.000	-8.628	3.743	-0.810	input_file.cif#1.A	8
+A:2:_:LEU	A	2	LEU	RES	H	2	0.000	-4.979	4.182	-2.071	input_file.cif#2.A	8
+A:3:_:TYR	A	3	TYR	RES	H	3	0.000	-3.591	2.791	1.257	input_file.cif#3.A	8
+A:4:_:ILE	A	4	ILE	RES	H	3	0.000	-5.855	-0.341	0.979	input_file.cif#4.A	8
+A:5:_:GLN	A	5	GLN	RES	H	1	0.000	-4.362	-1.071	-2.489	input_file.cif#5.A	8
+A:6:_:TRP	A	6	TRP	RES	H	8	0.000	-0.824	-0.567	-1.033	input_file.cif#6.A	8
+A:7:_:LEU	A	7	LEU	RES	H	3	0.000	-1.599	-3.031	1.829	input_file.cif#7.A	8
+A:8:_:LYS	A	8	LYS	RES	H	1	0.000	-2.835	-5.565	-0.847	input_file.cif#8.A	8
+A:9:_:ASP	A	9	ASP	RES	H	4	0.000	0.782	-5.753	-2.199	input_file.cif#9.A	8
+A:10:_:GLY	A	10	GLY	RES	H	2	0.000	2.025	-6.755	1.345	input_file.cif#10.A	8
+A:11:_:GLY	A	11	GLY	RES	G	4	0.000	2.503	-3.261	2.946	input_file.cif#11.A	8
+A:12:_:PRO	A	12	PRO	RES	H	0	0.000	6.186	-2.657	4.057	input_file.cif#12.A	8
+A:13:_:SER	A	13	SER	RES	H	1	0.000	7.162	-6.235	2.936	input_file.cif#13.A	8
+A:14:_:SER	A	14	SER	RES	H	3	0.000	6.504	-5.245	-0.744	input_file.cif#14.A	8
+A:15:_:GLY	A	15	GLY	RES	H	0	0.000	9.628	-3.120	-1.568	input_file.cif#15.A	8
+A:16:_:ARG	A	16	ARG	RES	S	3	0.000	7.372	-0.003	-2.121	input_file.cif#16.A	8
+A:17:_:PRO	A	17	PRO	RES	 	1	0.000	6.727	3.117	0.088	input_file.cif#17.A	8
+A:18:_:PRO	A	18	PRO	RES	 	0	0.000	3.160	4.002	1.296	input_file.cif#18.A	8
+A:19:_:PRO	A	19	PRO	RES	 	1	0.000	0.954	6.306	-0.911	input_file.cif#19.A	8
+A:20:_:SER	A	20	SER	RES	 	1	0.000	-0.381	8.320	2.134	input_file.cif#20.A	8
+A:1:_:ASN	A	1	ASN	RES	 	0	0.000	-6.778	6.858	-0.378	input_file.cif#1.A	9
+A:2:_:LEU	A	2	LEU	RES	 	3	0.000	-4.587	4.213	-2.289	input_file.cif#2.A	9
+A:3:_:TYR	A	3	TYR	RES	H	6	0.000	-3.507	2.707	1.123	input_file.cif#3.A	9
+A:4:_:ILE	A	4	ILE	RES	H	1	0.000	-5.839	-0.354	0.750	input_file.cif#4.A	9
+A:5:_:GLN	A	5	GLN	RES	H	1	0.000	-4.210	-1.179	-2.650	input_file.cif#5.A	9
+A:6:_:TRP	A	6	TRP	RES	H	7	0.000	-0.717	-0.712	-1.094	input_file.cif#6.A	9
+A:7:_:LEU	A	7	LEU	RES	H	4	0.000	-1.650	-3.030	1.843	input_file.cif#7.A	9
+A:8:_:LYS	A	8	LYS	RES	H	1	0.000	-3.064	-5.639	-0.660	input_file.cif#8.A	9
+A:9:_:ASP	A	9	ASP	RES	H	0	0.000	0.496	-6.197	-2.043	input_file.cif#9.A	9
+A:10:_:GLY	A	10	GLY	RES	H	3	0.000	2.040	-6.794	1.445	input_file.cif#10.A	9
+A:11:_:GLY	A	11	GLY	RES	H	1	0.000	2.428	-3.400	3.257	input_file.cif#11.A	9
+A:12:_:PRO	A	12	PRO	RES	H	0	0.000	6.130	-2.631	4.172	input_file.cif#12.A	9
+A:13:_:SER	A	13	SER	RES	H	1	0.000	7.425	-6.010	2.779	input_file.cif#13.A	9
+A:14:_:SER	A	14	SER	RES	H	2	0.000	6.348	-4.975	-0.808	input_file.cif#14.A	9
+A:15:_:GLY	A	15	GLY	RES	S	0	0.000	9.449	-2.750	-1.509	input_file.cif#15.A	9
+A:16:_:ARG	A	16	ARG	RES	S	1	0.000	7.218	0.212	-2.656	input_file.cif#16.A	9
+A:17:_:PRO	A	17	PRO	RES	 	0	0.000	6.721	3.035	-0.016	input_file.cif#17.A	9
+A:18:_:PRO	A	18	PRO	RES	 	2	0.000	3.222	3.833	1.437	input_file.cif#18.A	9
+A:19:_:PRO	A	19	PRO	RES	 	3	0.000	1.031	6.371	-0.488	input_file.cif#19.A	9
+A:20:_:SER	A	20	SER	RES	 	0	0.000	0.019	9.620	1.329	input_file.cif#20.A	9
+A:1:_:ASN	A	1	ASN	RES	 	0	0.000	-7.689	6.240	-0.107	input_file.cif#1.A	10
+A:2:_:LEU	A	2	LEU	RES	G	3	0.000	-4.939	4.305	-2.022	input_file.cif#2.A	10
+A:3:_:TYR	A	3	TYR	RES	H	4	0.000	-3.683	2.595	1.228	input_file.cif#3.A	10
+A:4:_:ILE	A	4	ILE	RES	H	1	0.000	-5.790	-0.565	0.464	input_file.cif#4.A	10
+A:5:_:GLN	A	5	GLN	RES	H	3	0.000	-3.843	-0.981	-2.852	input_file.cif#5.A	10
+A:6:_:TRP	A	6	TRP	RES	H	10	0.000	-0.534	-0.641	-0.897	input_file.cif#6.A	10
+A:7:_:LEU	A	7	LEU	RES	H	3	0.000	-1.599	-3.048	1.926	input_file.cif#7.A	10
+A:8:_:LYS	A	8	LYS	RES	H	3	0.000	-2.957	-5.783	-0.469	input_file.cif#8.A	10
+A:9:_:ASP	A	9	ASP	RES	H	4	0.000	0.589	-5.960	-1.966	input_file.cif#9.A	10
+A:10:_:GLY	A	10	GLY	RES	H	2	0.000	2.037	-6.837	1.523	input_file.cif#10.A	10
+A:11:_:GLY	A	11	GLY	RES	G	4	0.000	2.527	-3.280	2.968	input_file.cif#11.A	10
+A:12:_:PRO	A	12	PRO	RES	H	1	0.000	6.211	-2.791	4.140	input_file.cif#12.A	10
+A:13:_:SER	A	13	SER	RES	H	1	0.000	7.187	-6.275	2.772	input_file.cif#13.A	10
+A:14:_:SER	A	14	SER	RES	H	4	0.000	6.244	-5.155	-0.818	input_file.cif#14.A	10
+A:15:_:GLY	A	15	GLY	RES	H	0	0.000	9.395	-3.094	-1.693	input_file.cif#15.A	10
+A:16:_:ARG	A	16	ARG	RES	S	3	0.000	7.364	0.181	-2.198	input_file.cif#16.A	10
+A:17:_:PRO	A	17	PRO	RES	 	1	0.000	6.638	3.277	0.023	input_file.cif#17.A	10
+A:18:_:PRO	A	18	PRO	RES	 	1	0.000	3.074	4.111	1.260	input_file.cif#18.A	10
+A:19:_:PRO	A	19	PRO	RES	 	2	0.000	0.777	6.481	-0.754	input_file.cif#19.A	10
+A:20:_:SER	A	20	SER	RES	 	0	0.000	1.059	10.038	0.716	input_file.cif#20.A	10
+A:1:_:ASN	A	1	ASN	RES	 	0	0.000	-7.529	6.238	-0.712	input_file.cif#1.A	11
+A:2:_:LEU	A	2	LEU	RES	H	2	0.000	-4.691	4.051	-2.237	input_file.cif#2.A	11
+A:3:_:TYR	A	3	TYR	RES	H	2	0.000	-3.594	2.700	1.221	input_file.cif#3.A	11
+A:4:_:ILE	A	4	ILE	RES	H	1	0.000	-5.847	-0.393	0.739	input_file.cif#4.A	11
+A:5:_:GLN	A	5	GLN	RES	H	2	0.000	-4.116	-1.188	-2.627	input_file.cif#5.A	11
+A:6:_:TRP	A	6	TRP	RES	H	8	0.000	-0.661	-0.714	-1.009	input_file.cif#6.A	11
+A:7:_:LEU	A	7	LEU	RES	H	2	0.000	-1.566	-2.933	2.003	input_file.cif#7.A	11
+A:8:_:LYS	A	8	LYS	RES	H	2	0.000	-3.090	-5.545	-0.417	input_file.cif#8.A	11
+A:9:_:ASP	A	9	ASP	RES	H	4	0.000	0.388	-6.124	-1.938	input_file.cif#9.A	11
+A:10:_:GLY	A	10	GLY	RES	H	3	0.000	1.737	-6.639	1.646	input_file.cif#10.A	11
+A:11:_:GLY	A	11	GLY	RES	H	3	0.000	2.673	-3.013	2.615	input_file.cif#11.A	11
+A:12:_:PRO	A	12	PRO	RES	H	1	0.000	6.424	-2.779	3.578	input_file.cif#12.A	11
+A:13:_:SER	A	13	SER	RES	H	2	0.000	6.949	-6.443	2.439	input_file.cif#13.A	11
+A:14:_:SER	A	14	SER	RES	H	3	0.000	6.820	-5.327	-1.256	input_file.cif#14.A	11
+A:15:_:GLY	A	15	GLY	RES	 	1	0.000	9.520	-2.646	-0.549	input_file.cif#15.A	11
+A:16:_:ARG	A	16	ARG	RES	 	1	0.000	7.407	0.144	-2.217	input_file.cif#16.A	11
+A:17:_:PRO	A	17	PRO	RES	 	0	0.000	6.592	3.134	0.139	input_file.cif#17.A	11
+A:18:_:PRO	A	18	PRO	RES	 	1	0.000	2.983	3.945	1.275	input_file.cif#18.A	11
+A:19:_:PRO	A	19	PRO	RES	 	2	0.000	0.805	6.357	-0.803	input_file.cif#19.A	11
+A:20:_:SER	A	20	SER	RES	 	0	0.000	0.107	9.883	0.597	input_file.cif#20.A	11
+A:1:_:ASN	A	1	ASN	RES	 	2	0.000	-5.666	7.501	0.145	input_file.cif#1.A	12
+A:2:_:LEU	A	2	LEU	RES	 	2	0.000	-4.870	4.301	-1.933	input_file.cif#2.A	12
+A:3:_:TYR	A	3	TYR	RES	H	2	0.000	-3.724	2.561	1.334	input_file.cif#3.A	12
+A:4:_:ILE	A	4	ILE	RES	H	2	0.000	-5.929	-0.561	0.735	input_file.cif#4.A	12
+A:5:_:GLN	A	5	GLN	RES	H	5	0.000	-4.125	-1.106	-2.634	input_file.cif#5.A	12
+A:6:_:TRP	A	6	TRP	RES	H	8	0.000	-0.617	-0.690	-1.102	input_file.cif#6.A	12
+A:7:_:LEU	A	7	LEU	RES	H	2	0.000	-1.565	-3.023	1.803	input_file.cif#7.A	12
+A:8:_:LYS	A	8	LYS	RES	H	5	0.000	-2.803	-5.590	-0.835	input_file.cif#8.A	12
+A:9:_:ASP	A	9	ASP	RES	H	2	0.000	0.810	-5.841	-2.151	input_file.cif#9.A	12
+A:10:_:GLY	A	10	GLY	RES	H	3	0.000	1.982	-6.737	1.446	input_file.cif#10.A	12
+A:11:_:GLY	A	11	GLY	RES	H	6	0.000	2.489	-3.194	2.933	input_file.cif#11.A	12
+A:12:_:PRO	A	12	PRO	RES	H	0	0.000	6.074	-2.717	4.372	input_file.cif#12.A	12
+A:13:_:SER	A	13	SER	RES	H	1	0.000	7.084	-6.170	2.958	input_file.cif#13.A	12
+A:14:_:SER	A	14	SER	RES	H	4	0.000	6.326	-5.021	-0.674	input_file.cif#14.A	12
+A:15:_:GLY	A	15	GLY	RES	S	0	0.000	9.507	-2.889	-1.274	input_file.cif#15.A	12
+A:16:_:ARG	A	16	ARG	RES	S	2	0.000	7.271	-0.051	-2.694	input_file.cif#16.A	12
+A:17:_:PRO	A	17	PRO	RES	 	0	0.000	6.730	2.992	-0.332	input_file.cif#17.A	12
+A:18:_:PRO	A	18	PRO	RES	 	1	0.000	3.235	3.860	1.094	input_file.cif#18.A	12
+A:19:_:PRO	A	19	PRO	RES	 	2	0.000	0.813	6.446	-0.514	input_file.cif#19.A	12
+A:20:_:SER	A	20	SER	RES	 	1	0.000	0.117	8.121	2.917	input_file.cif#20.A	12
+A:1:_:ASN	A	1	ASN	RES	 	1	0.000	-7.019	6.327	-0.216	input_file.cif#1.A	13
+A:2:_:LEU	A	2	LEU	RES	 	2	0.000	-4.406	4.163	-2.156	input_file.cif#2.A	13
+A:3:_:TYR	A	3	TYR	RES	H	3	0.000	-3.446	2.538	1.230	input_file.cif#3.A	13
+A:4:_:ILE	A	4	ILE	RES	H	2	0.000	-5.862	-0.418	0.547	input_file.cif#4.A	13
+A:5:_:GLN	A	5	GLN	RES	H	1	0.000	-4.097	-1.237	-2.779	input_file.cif#5.A	13
+A:6:_:TRP	A	6	TRP	RES	H	7	0.000	-0.693	-0.764	-1.047	input_file.cif#6.A	13
+A:7:_:LEU	A	7	LEU	RES	H	3	0.000	-1.710	-3.134	1.832	input_file.cif#7.A	13
+A:8:_:LYS	A	8	LYS	RES	H	1	0.000	-2.894	-5.686	-0.829	input_file.cif#8.A	13
+A:9:_:ASP	A	9	ASP	RES	H	3	0.000	0.787	-5.808	-1.980	input_file.cif#9.A	13
+A:10:_:GLY	A	10	GLY	RES	H	3	0.000	1.920	-6.800	1.627	input_file.cif#10.A	13
+A:11:_:GLY	A	11	GLY	RES	G	4	0.000	2.452	-3.248	3.072	input_file.cif#11.A	13
+A:12:_:PRO	A	12	PRO	RES	G	0	0.000	6.049	-2.569	4.388	input_file.cif#12.A	13
+A:13:_:SER	A	13	SER	RES	G	1	0.000	7.167	-5.968	2.930	input_file.cif#13.A	13
+A:14:_:SER	A	14	SER	RES	G	3	0.000	6.226	-5.028	-0.713	input_file.cif#14.A	13
+A:15:_:GLY	A	15	GLY	RES	S	0	0.000	9.241	-2.785	-1.634	input_file.cif#15.A	13
+A:16:_:ARG	A	16	ARG	RES	S	2	0.000	6.866	0.043	-2.822	input_file.cif#16.A	13
+A:17:_:PRO	A	17	PRO	RES	 	0	0.000	6.730	3.085	-0.400	input_file.cif#17.A	13
+A:18:_:PRO	A	18	PRO	RES	 	0	0.000	3.495	3.929	1.554	input_file.cif#18.A	13
+A:19:_:PRO	A	19	PRO	RES	 	0	0.000	1.071	6.373	-0.198	input_file.cif#19.A	13
+A:20:_:SER	A	20	SER	RES	 	0	0.000	0.150	9.654	1.607	input_file.cif#20.A	13
+A:1:_:ASN	A	1	ASN	RES	 	0	0.000	-7.275	6.470	-1.269	input_file.cif#1.A	14
+A:2:_:LEU	A	2	LEU	RES	G	1	0.000	-4.460	4.057	-2.472	input_file.cif#2.A	14
+A:3:_:TYR	A	3	TYR	RES	H	3	0.000	-3.458	2.567	0.937	input_file.cif#3.A	14
+A:4:_:ILE	A	4	ILE	RES	H	1	0.000	-5.795	-0.478	0.440	input_file.cif#4.A	14
+A:5:_:GLN	A	5	GLN	RES	H	1	0.000	-3.904	-1.463	-2.769	input_file.cif#5.A	14
+A:6:_:TRP	A	6	TRP	RES	H	9	0.000	-0.498	-0.859	-1.070	input_file.cif#6.A	14
+A:7:_:LEU	A	7	LEU	RES	H	2	0.000	-1.563	-3.019	1.940	input_file.cif#7.A	14
+A:8:_:LYS	A	8	LYS	RES	H	2	0.000	-2.976	-5.755	-0.427	input_file.cif#8.A	14
+A:9:_:ASP	A	9	ASP	RES	H	1	0.000	0.577	-6.608	-1.609	input_file.cif#9.A	14
+A:10:_:GLY	A	10	GLY	RES	H	3	0.000	1.851	-6.634	2.059	input_file.cif#10.A	14
+A:11:_:GLY	A	11	GLY	RES	H	4	0.000	2.491	-2.882	2.819	input_file.cif#11.A	14
+A:12:_:PRO	A	12	PRO	RES	H	0	0.000	6.196	-2.624	3.971	input_file.cif#12.A	14
+A:13:_:SER	A	13	SER	RES	H	2	0.000	6.825	-6.021	2.248	input_file.cif#13.A	14
+A:14:_:SER	A	14	SER	RES	H	3	0.000	5.582	-4.659	-1.171	input_file.cif#14.A	14
+A:15:_:GLY	A	15	GLY	RES	H	0	0.000	8.999	-3.132	-2.201	input_file.cif#15.A	14
+A:16:_:ARG	A	16	ARG	RES	S	3	0.000	7.559	0.475	-2.105	input_file.cif#16.A	14
+A:17:_:PRO	A	17	PRO	RES	 	1	0.000	6.862	3.230	0.546	input_file.cif#17.A	14
+A:18:_:PRO	A	18	PRO	RES	 	0	0.000	3.324	4.085	1.879	input_file.cif#18.A	14
+A:19:_:PRO	A	19	PRO	RES	 	0	0.000	1.102	6.250	-0.443	input_file.cif#19.A	14
+A:20:_:SER	A	20	SER	RES	 	0	0.000	0.386	9.673	1.224	input_file.cif#20.A	14
+A:1:_:ASN	A	1	ASN	RES	 	0	0.000	-6.571	6.932	-1.361	input_file.cif#1.A	15
+A:2:_:LEU	A	2	LEU	RES	G	3	0.000	-4.259	3.990	-2.422	input_file.cif#2.A	15
+A:3:_:TYR	A	3	TYR	RES	H	5	0.000	-3.430	2.642	1.105	input_file.cif#3.A	15
+A:4:_:ILE	A	4	ILE	RES	H	1	0.000	-5.849	-0.340	0.711	input_file.cif#4.A	15
+A:5:_:GLN	A	5	GLN	RES	H	1	0.000	-4.150	-1.391	-2.590	input_file.cif#5.A	15
+A:6:_:TRP	A	6	TRP	RES	H	9	0.000	-0.680	-0.802	-1.023	input_file.cif#6.A	15
+A:7:_:LEU	A	7	LEU	RES	H	4	0.000	-1.649	-3.105	1.914	input_file.cif#7.A	15
+A:8:_:LYS	A	8	LYS	RES	H	1	0.000	-2.920	-5.824	-0.568	input_file.cif#8.A	15
+A:9:_:ASP	A	9	ASP	RES	H	0	0.000	0.688	-6.202	-1.905	input_file.cif#9.A	15
+A:10:_:GLY	A	10	GLY	RES	H	3	0.000	1.971	-6.722	1.726	input_file.cif#10.A	15
+A:11:_:GLY	A	11	GLY	RES	H	3	0.000	2.478	-3.045	2.826	input_file.cif#11.A	15
+A:12:_:PRO	A	12	PRO	RES	H	0	0.000	6.152	-2.629	4.039	input_file.cif#12.A	15
+A:13:_:SER	A	13	SER	RES	H	2	0.000	6.953	-6.108	2.565	input_file.cif#13.A	15
+A:14:_:SER	A	14	SER	RES	H	1	0.000	5.991	-4.891	-1.000	input_file.cif#14.A	15
+A:15:_:GLY	A	15	GLY	RES	T	0	0.000	9.278	-3.048	-1.864	input_file.cif#15.A	15
+A:16:_:ARG	A	16	ARG	RES	S	1	0.000	7.382	0.330	-2.201	input_file.cif#16.A	15
+A:17:_:PRO	A	17	PRO	RES	 	0	0.000	6.709	3.260	0.266	input_file.cif#17.A	15
+A:18:_:PRO	A	18	PRO	RES	 	2	0.000	3.107	3.972	1.479	input_file.cif#18.A	15
+A:19:_:PRO	A	19	PRO	RES	 	2	0.000	0.895	6.437	-0.497	input_file.cif#19.A	15
+A:20:_:SER	A	20	SER	RES	 	0	0.000	-0.096	9.858	0.986	input_file.cif#20.A	15
+A:1:_:ASN	A	1	ASN	RES	 	2	0.000	-8.461	2.997	-1.957	input_file.cif#1.A	16
+A:2:_:LEU	A	2	LEU	RES	H	4	0.000	-4.729	4.023	-2.199	input_file.cif#2.A	16
+A:3:_:TYR	A	3	TYR	RES	H	2	0.000	-3.662	2.734	1.282	input_file.cif#3.A	16
+A:4:_:ILE	A	4	ILE	RES	H	2	0.000	-5.835	-0.433	0.848	input_file.cif#4.A	16
+A:5:_:GLN	A	5	GLN	RES	H	2	0.000	-4.193	-1.137	-2.578	input_file.cif#5.A	16
+A:6:_:TRP	A	6	TRP	RES	H	5	0.000	-0.676	-0.717	-1.051	input_file.cif#6.A	16
+A:7:_:LEU	A	7	LEU	RES	H	2	0.000	-1.515	-2.880	2.022	input_file.cif#7.A	16
+A:8:_:LYS	A	8	LYS	RES	H	2	0.000	-3.085	-5.532	-0.333	input_file.cif#8.A	16
+A:9:_:ASP	A	9	ASP	RES	H	0	0.000	0.348	-5.945	-2.038	input_file.cif#9.A	16
+A:10:_:GLY	A	10	GLY	RES	H	2	0.000	1.925	-6.595	1.444	input_file.cif#10.A	16
+A:11:_:GLY	A	11	GLY	RES	H	4	0.000	2.643	-2.980	2.600	input_file.cif#11.A	16
+A:12:_:PRO	A	12	PRO	RES	H	1	0.000	6.382	-2.799	3.646	input_file.cif#12.A	16
+A:13:_:SER	A	13	SER	RES	H	1	0.000	6.932	-6.420	2.383	input_file.cif#13.A	16
+A:14:_:SER	A	14	SER	RES	H	2	0.000	6.322	-5.050	-1.172	input_file.cif#14.A	16
+A:15:_:GLY	A	15	GLY	RES	H	1	0.000	9.603	-3.011	-0.885	input_file.cif#15.A	16
+A:16:_:ARG	A	16	ARG	RES	S	1	0.000	7.691	0.212	-1.899	input_file.cif#16.A	16
+A:17:_:PRO	A	17	PRO	RES	 	0	0.000	6.796	3.253	0.346	input_file.cif#17.A	16
+A:18:_:PRO	A	18	PRO	RES	 	0	0.000	3.107	3.955	1.251	input_file.cif#18.A	16
+A:19:_:PRO	A	19	PRO	RES	 	3	0.000	0.886	6.247	-0.912	input_file.cif#19.A	16
+A:20:_:SER	A	20	SER	RES	 	0	0.000	0.653	9.774	0.659	input_file.cif#20.A	16
+A:1:_:ASN	A	1	ASN	RES	 	2	0.000	-8.658	3.999	-1.068	input_file.cif#1.A	17
+A:2:_:LEU	A	2	LEU	RES	H	2	0.000	-5.025	3.900	-2.419	input_file.cif#2.A	17
+A:3:_:TYR	A	3	TYR	RES	H	3	0.000	-3.757	2.758	1.034	input_file.cif#3.A	17
+A:4:_:ILE	A	4	ILE	RES	H	3	0.000	-5.959	-0.407	0.754	input_file.cif#4.A	17
+A:5:_:GLN	A	5	GLN	RES	H	3	0.000	-4.322	-1.281	-2.612	input_file.cif#5.A	17
+A:6:_:TRP	A	6	TRP	RES	H	6	0.000	-0.837	-0.672	-1.104	input_file.cif#6.A	17
+A:7:_:LEU	A	7	LEU	RES	H	3	0.000	-1.657	-2.918	1.915	input_file.cif#7.A	17
+A:8:_:LYS	A	8	LYS	RES	H	2	0.000	-2.927	-5.668	-0.497	input_file.cif#8.A	17
+A:9:_:ASP	A	9	ASP	RES	H	4	0.000	0.596	-5.859	-2.042	input_file.cif#9.A	17
+A:10:_:GLY	A	10	GLY	RES	H	3	0.000	2.000	-6.593	1.510	input_file.cif#10.A	17
+A:11:_:GLY	A	11	GLY	RES	G	3	0.000	2.565	-3.016	2.844	input_file.cif#11.A	17
+A:12:_:PRO	A	12	PRO	RES	G	0	0.000	6.277	-2.307	3.754	input_file.cif#12.A	17
+A:13:_:SER	A	13	SER	RES	G	1	0.000	7.159	-5.950	2.773	input_file.cif#13.A	17
+A:14:_:SER	A	14	SER	RES	G	3	0.000	6.427	-5.256	-0.961	input_file.cif#14.A	17
+A:15:_:GLY	A	15	GLY	RES	T	0	0.000	9.526	-3.183	-1.983	input_file.cif#15.A	17
+A:16:_:ARG	A	16	ARG	RES	 	3	0.000	7.349	0.019	-2.007	input_file.cif#16.A	17
+A:17:_:PRO	A	17	PRO	RES	 	1	0.000	6.818	2.862	0.570	input_file.cif#17.A	17
+A:18:_:PRO	A	18	PRO	RES	 	0	0.000	3.331	4.024	1.786	input_file.cif#18.A	17
+A:19:_:PRO	A	19	PRO	RES	 	0	0.000	1.314	6.299	-0.608	input_file.cif#19.A	17
+A:20:_:SER	A	20	SER	RES	 	0	0.000	1.395	9.850	0.892	input_file.cif#20.A	17
+A:1:_:ASN	A	1	ASN	RES	 	0	0.000	-5.686	7.485	-0.453	input_file.cif#1.A	18
+A:2:_:LEU	A	2	LEU	RES	 	2	0.000	-4.751	4.202	-2.378	input_file.cif#2.A	18
+A:3:_:TYR	A	3	TYR	RES	H	6	0.000	-3.520	2.704	0.978	input_file.cif#3.A	18
+A:4:_:ILE	A	4	ILE	RES	H	1	0.000	-5.793	-0.418	0.803	input_file.cif#4.A	18
+A:5:_:GLN	A	5	GLN	RES	H	1	0.000	-4.240	-1.358	-2.602	input_file.cif#5.A	18
+A:6:_:TRP	A	6	TRP	RES	H	10	0.000	-0.718	-0.822	-1.137	input_file.cif#6.A	18
+A:7:_:LEU	A	7	LEU	RES	H	3	0.000	-1.599	-3.028	1.905	input_file.cif#7.A	18
+A:8:_:LYS	A	8	LYS	RES	H	1	0.000	-2.961	-5.760	-0.490	input_file.cif#8.A	18
+A:9:_:ASP	A	9	ASP	RES	H	2	0.000	0.615	-6.165	-1.853	input_file.cif#9.A	18
+A:10:_:GLY	A	10	GLY	RES	H	2	0.000	2.022	-6.675	1.745	input_file.cif#10.A	18
+A:11:_:GLY	A	11	GLY	RES	H	7	0.000	2.595	-2.981	2.757	input_file.cif#11.A	18
+A:12:_:PRO	A	12	PRO	RES	H	0	0.000	6.222	-2.711	4.128	input_file.cif#12.A	18
+A:13:_:SER	A	13	SER	RES	H	1	0.000	6.954	-6.124	2.463	input_file.cif#13.A	18
+A:14:_:SER	A	14	SER	RES	H	5	0.000	5.996	-4.784	-1.057	input_file.cif#14.A	18
+A:15:_:GLY	A	15	GLY	RES	T	0	0.000	9.384	-3.115	-1.892	input_file.cif#15.A	18
+A:16:_:ARG	A	16	ARG	RES	S	1	0.000	7.620	0.333	-2.073	input_file.cif#16.A	18
+A:17:_:PRO	A	17	PRO	RES	 	0	0.000	6.761	3.096	0.517	input_file.cif#17.A	18
+A:18:_:PRO	A	18	PRO	RES	 	2	0.000	3.086	3.848	1.449	input_file.cif#18.A	18
+A:19:_:PRO	A	19	PRO	RES	 	0	0.000	1.010	6.280	-0.696	input_file.cif#19.A	18
+A:20:_:SER	A	20	SER	RES	 	0	0.000	0.162	9.640	0.988	input_file.cif#20.A	18
+A:1:_:ASN	A	1	ASN	RES	 	1	0.000	-5.482	7.459	-1.069	input_file.cif#1.A	19
+A:2:_:LEU	A	2	LEU	RES	 	1	0.000	-4.498	3.973	-2.561	input_file.cif#2.A	19
+A:3:_:TYR	A	3	TYR	RES	H	2	0.000	-3.547	2.721	0.982	input_file.cif#3.A	19
+A:4:_:ILE	A	4	ILE	RES	H	1	0.000	-5.898	-0.342	0.812	input_file.cif#4.A	19
+A:5:_:GLN	A	5	GLN	RES	H	2	0.000	-4.266	-1.471	-2.496	input_file.cif#5.A	19
+A:6:_:TRP	A	6	TRP	RES	H	7	0.000	-0.771	-0.866	-0.989	input_file.cif#6.A	19
+A:7:_:LEU	A	7	LEU	RES	H	2	0.000	-1.688	-3.061	2.044	input_file.cif#7.A	19
+A:8:_:LYS	A	8	LYS	RES	H	2	0.000	-3.176	-5.792	-0.293	input_file.cif#8.A	19
+A:9:_:ASP	A	9	ASP	RES	H	4	0.000	0.249	-6.089	-2.012	input_file.cif#9.A	19
+A:10:_:GLY	A	10	GLY	RES	H	3	0.000	2.093	-6.534	1.364	input_file.cif#10.A	19
+A:11:_:GLY	A	11	GLY	RES	G	2	0.000	2.599	-2.906	2.599	input_file.cif#11.A	19
+A:12:_:PRO	A	12	PRO	RES	G	0	0.000	6.282	-2.419	3.719	input_file.cif#12.A	19
+A:13:_:SER	A	13	SER	RES	G	1	0.000	7.038	-6.057	2.614	input_file.cif#13.A	19
+A:14:_:SER	A	14	SER	RES	G	3	0.000	6.465	-5.116	-1.104	input_file.cif#14.A	19
+A:15:_:GLY	A	15	GLY	RES	T	0	0.000	9.587	-2.933	-1.741	input_file.cif#15.A	19
+A:16:_:ARG	A	16	ARG	RES	 	1	0.000	7.285	0.177	-1.944	input_file.cif#16.A	19
+A:17:_:PRO	A	17	PRO	RES	 	1	0.000	6.706	3.032	0.616	input_file.cif#17.A	19
+A:18:_:PRO	A	18	PRO	RES	 	0	0.000	3.165	4.041	1.816	input_file.cif#18.A	19
+A:19:_:PRO	A	19	PRO	RES	 	0	0.000	1.193	6.145	-0.742	input_file.cif#19.A	19
+A:20:_:SER	A	20	SER	RES	 	1	0.000	-0.267	9.613	0.032	input_file.cif#20.A	19
+A:1:_:ASN	A	1	ASN	RES	 	0	0.000	-7.539	6.170	-0.168	input_file.cif#1.A	20
+A:2:_:LEU	A	2	LEU	RES	 	3	0.000	-4.891	4.125	-2.180	input_file.cif#2.A	20
+A:3:_:TYR	A	3	TYR	RES	H	4	0.000	-3.575	2.669	1.174	input_file.cif#3.A	20
+A:4:_:ILE	A	4	ILE	RES	H	1	0.000	-5.843	-0.436	0.816	input_file.cif#4.A	20
+A:5:_:GLN	A	5	GLN	RES	H	1	0.000	-4.187	-1.318	-2.543	input_file.cif#5.A	20
+A:6:_:TRP	A	6	TRP	RES	H	8	0.000	-0.665	-0.788	-1.058	input_file.cif#6.A	20
+A:7:_:LEU	A	7	LEU	RES	H	3	0.000	-1.525	-3.000	1.984	input_file.cif#7.A	20
+A:8:_:LYS	A	8	LYS	RES	H	1	0.000	-3.104	-5.647	-0.376	input_file.cif#8.A	20
+A:9:_:ASP	A	9	ASP	RES	H	3	0.000	0.321	-6.020	-2.093	input_file.cif#9.A	20
+A:10:_:GLY	A	10	GLY	RES	H	3	0.000	2.010	-6.592	1.355	input_file.cif#10.A	20
+A:11:_:GLY	A	11	GLY	RES	H	3	0.000	2.637	-2.966	2.554	input_file.cif#11.A	20
+A:12:_:PRO	A	12	PRO	RES	H	1	0.000	6.341	-2.693	3.687	input_file.cif#12.A	20
+A:13:_:SER	A	13	SER	RES	H	2	0.000	6.894	-6.348	2.558	input_file.cif#13.A	20
+A:14:_:SER	A	14	SER	RES	H	3	0.000	6.436	-5.119	-1.073	input_file.cif#14.A	20
+A:15:_:GLY	A	15	GLY	RES	S	1	0.000	9.506	-2.771	-0.715	input_file.cif#15.A	20
+A:16:_:ARG	A	16	ARG	RES	S	2	0.000	7.469	0.154	-2.234	input_file.cif#16.A	20
+A:17:_:PRO	A	17	PRO	RES	 	0	0.000	6.771	3.037	0.288	input_file.cif#17.A	20
+A:18:_:PRO	A	18	PRO	RES	 	1	0.000	3.162	3.983	1.317	input_file.cif#18.A	20
+A:19:_:PRO	A	19	PRO	RES	 	2	0.000	0.982	6.372	-0.808	input_file.cif#19.A	20
+A:20:_:SER	A	20	SER	RES	 	0	0.000	0.266	8.724	2.196	input_file.cif#20.A	20
+A:1:_:ASN	A	1	ASN	RES	 	2	0.000	-8.421	4.425	-0.695	input_file.cif#1.A	21
+A:2:_:LEU	A	2	LEU	RES	H	3	0.000	-4.889	4.051	-2.203	input_file.cif#2.A	21
+A:3:_:TYR	A	3	TYR	RES	H	4	0.000	-3.556	2.775	1.192	input_file.cif#3.A	21
+A:4:_:ILE	A	4	ILE	RES	H	3	0.000	-5.809	-0.333	0.842	input_file.cif#4.A	21
+A:5:_:GLN	A	5	GLN	RES	H	2	0.000	-4.180	-1.182	-2.538	input_file.cif#5.A	21
+A:6:_:TRP	A	6	TRP	RES	H	10	0.000	-0.682	-0.649	-1.004	input_file.cif#6.A	21
+A:7:_:LEU	A	7	LEU	RES	H	4	0.000	-1.482	-2.920	2.000	input_file.cif#7.A	21
+A:8:_:LYS	A	8	LYS	RES	H	1	0.000	-2.964	-5.533	-0.446	input_file.cif#8.A	21
+A:9:_:ASP	A	9	ASP	RES	H	4	0.000	0.530	-5.873	-2.078	input_file.cif#9.A	21
+A:10:_:GLY	A	10	GLY	RES	H	2	0.000	1.936	-6.685	1.451	input_file.cif#10.A	21
+A:11:_:GLY	A	11	GLY	RES	H	2	0.000	2.732	-3.116	2.683	input_file.cif#11.A	21
+A:12:_:PRO	A	12	PRO	RES	H	2	0.000	6.491	-2.829	3.600	input_file.cif#12.A	21
+A:13:_:SER	A	13	SER	RES	H	1	0.000	7.032	-6.510	2.502	input_file.cif#13.A	21
+A:14:_:SER	A	14	SER	RES	H	2	0.000	6.540	-5.569	-1.189	input_file.cif#14.A	21
+A:15:_:GLY	A	15	GLY	RES	H	1	0.000	9.467	-3.068	-0.877	input_file.cif#15.A	21
+A:16:_:ARG	A	16	ARG	RES	 	3	0.000	7.493	0.155	-1.712	input_file.cif#16.A	21
+A:17:_:PRO	A	17	PRO	RES	 	1	0.000	6.538	3.322	0.308	input_file.cif#17.A	21
+A:18:_:PRO	A	18	PRO	RES	 	0	0.000	2.890	4.179	1.221	input_file.cif#18.A	21
+A:19:_:PRO	A	19	PRO	RES	 	1	0.000	0.762	6.450	-1.060	input_file.cif#19.A	21
+A:20:_:SER	A	20	SER	RES	 	0	0.000	0.998	10.004	0.410	input_file.cif#20.A	21
+A:1:_:ASN	A	1	ASN	RES	 	1	0.000	-7.735	5.239	-1.002	input_file.cif#1.A	22
+A:2:_:LEU	A	2	LEU	RES	H	2	0.000	-4.409	3.863	-2.457	input_file.cif#2.A	22
+A:3:_:TYR	A	3	TYR	RES	H	5	0.000	-3.447	2.623	1.074	input_file.cif#3.A	22
+A:4:_:ILE	A	4	ILE	RES	H	2	0.000	-5.823	-0.366	0.587	input_file.cif#4.A	22
+A:5:_:GLN	A	5	GLN	RES	H	3	0.000	-4.004	-1.401	-2.634	input_file.cif#5.A	22
+A:6:_:TRP	A	6	TRP	RES	H	10	0.000	-0.600	-0.811	-0.937	input_file.cif#6.A	22
+A:7:_:LEU	A	7	LEU	RES	H	3	0.000	-1.591	-3.020	2.054	input_file.cif#7.A	22
+A:8:_:LYS	A	8	LYS	RES	H	2	0.000	-3.024	-5.667	-0.363	input_file.cif#8.A	22
+A:9:_:ASP	A	9	ASP	RES	H	2	0.000	0.466	-6.130	-1.902	input_file.cif#9.A	22
+A:10:_:GLY	A	10	GLY	RES	H	5	0.000	1.948	-6.626	1.656	input_file.cif#10.A	22
+A:11:_:GLY	A	11	GLY	RES	G	4	0.000	2.561	-2.998	2.829	input_file.cif#11.A	22
+A:12:_:PRO	A	12	PRO	RES	G	0	0.000	6.246	-2.706	4.011	input_file.cif#12.A	22
+A:13:_:SER	A	13	SER	RES	G	2	0.000	6.911	-6.174	2.405	input_file.cif#13.A	22
+A:14:_:SER	A	14	SER	RES	G	4	0.000	6.076	-4.919	-1.157	input_file.cif#14.A	22
+A:15:_:GLY	A	15	GLY	RES	T	0	0.000	9.337	-3.046	-2.017	input_file.cif#15.A	22
+A:16:_:ARG	A	16	ARG	RES	S	1	0.000	7.468	0.335	-1.947	input_file.cif#16.A	22
+A:17:_:PRO	A	17	PRO	RES	 	1	0.000	6.642	3.137	0.592	input_file.cif#17.A	22
+A:18:_:PRO	A	18	PRO	RES	 	1	0.000	3.035	4.076	1.629	input_file.cif#18.A	22
+A:19:_:PRO	A	19	PRO	RES	 	1	0.000	1.020	6.389	-0.730	input_file.cif#19.A	22
+A:20:_:SER	A	20	SER	RES	 	1	0.000	-0.495	8.598	2.070	input_file.cif#20.A	22
+A:1:_:ASN	A	1	ASN	RES	 	1	0.000	-8.139	5.500	-0.596	input_file.cif#1.A	23
+A:2:_:LEU	A	2	LEU	RES	G	1	0.000	-4.918	3.992	-2.233	input_file.cif#2.A	23
+A:3:_:TYR	A	3	TYR	RES	H	3	0.000	-3.550	2.790	1.185	input_file.cif#3.A	23
+A:4:_:ILE	A	4	ILE	RES	H	2	0.000	-5.827	-0.326	0.952	input_file.cif#4.A	23
+A:5:_:GLN	A	5	GLN	RES	H	1	0.000	-4.248	-1.254	-2.452	input_file.cif#5.A	23
+A:6:_:TRP	A	6	TRP	RES	H	8	0.000	-0.752	-0.626	-0.970	input_file.cif#6.A	23
+A:7:_:LEU	A	7	LEU	RES	H	2	0.000	-1.600	-2.993	1.954	input_file.cif#7.A	23
+A:8:_:LYS	A	8	LYS	RES	H	1	0.000	-3.068	-5.596	-0.534	input_file.cif#8.A	23
+A:9:_:ASP	A	9	ASP	RES	H	2	0.000	0.436	-5.853	-2.083	input_file.cif#9.A	23
+A:10:_:GLY	A	10	GLY	RES	H	2	0.000	1.935	-6.630	1.406	input_file.cif#10.A	23
+A:11:_:GLY	A	11	GLY	RES	H	2	0.000	2.660	-3.003	2.510	input_file.cif#11.A	23
+A:12:_:PRO	A	12	PRO	RES	H	1	0.000	6.401	-2.697	3.498	input_file.cif#12.A	23
+A:13:_:SER	A	13	SER	RES	H	1	0.000	6.922	-6.427	2.577	input_file.cif#13.A	23
+A:14:_:SER	A	14	SER	RES	H	1	0.000	7.033	-5.491	-1.164	input_file.cif#14.A	23
+A:15:_:GLY	A	15	GLY	RES	S	1	0.000	9.577	-2.650	-0.433	input_file.cif#15.A	23
+A:16:_:ARG	A	16	ARG	RES	 	2	0.000	7.253	-0.068	-2.152	input_file.cif#16.A	23
+A:17:_:PRO	A	17	PRO	RES	 	1	0.000	6.620	2.967	0.182	input_file.cif#17.A	23
+A:18:_:PRO	A	18	PRO	RES	 	1	0.000	3.051	4.007	1.257	input_file.cif#18.A	23
+A:19:_:PRO	A	19	PRO	RES	 	0	0.000	0.957	6.533	-0.802	input_file.cif#19.A	23
+A:20:_:SER	A	20	SER	RES	 	1	0.000	0.537	8.783	2.335	input_file.cif#20.A	23
+A:1:_:ASN	A	1	ASN	RES	 	0	0.000	-7.232	6.863	0.107	input_file.cif#1.A	24
+A:2:_:LEU	A	2	LEU	RES	G	3	0.000	-5.032	4.330	-1.843	input_file.cif#2.A	24
+A:3:_:TYR	A	3	TYR	RES	H	2	0.000	-3.536	2.698	1.337	input_file.cif#3.A	24
+A:4:_:ILE	A	4	ILE	RES	H	2	0.000	-5.855	-0.385	0.970	input_file.cif#4.A	24
+A:5:_:GLN	A	5	GLN	RES	H	4	0.000	-4.287	-1.099	-2.478	input_file.cif#5.A	24
+A:6:_:TRP	A	6	TRP	RES	H	5	0.000	-0.744	-0.663	-1.057	input_file.cif#6.A	24
+A:7:_:LEU	A	7	LEU	RES	H	2	0.000	-1.631	-3.070	1.801	input_file.cif#7.A	24
+A:8:_:LYS	A	8	LYS	RES	H	3	0.000	-2.775	-5.659	-0.860	input_file.cif#8.A	24
+A:9:_:ASP	A	9	ASP	RES	H	5	0.000	0.824	-5.550	-2.228	input_file.cif#9.A	24
+A:10:_:GLY	A	10	GLY	RES	H	2	0.000	2.015	-6.734	1.274	input_file.cif#10.A	24
+A:11:_:GLY	A	11	GLY	RES	H	3	0.000	2.682	-3.258	2.815	input_file.cif#11.A	24
+A:12:_:PRO	A	12	PRO	RES	H	1	0.000	6.365	-2.823	3.965	input_file.cif#12.A	24
+A:13:_:SER	A	13	SER	RES	H	1	0.000	7.138	-6.446	2.859	input_file.cif#13.A	24
+A:14:_:SER	A	14	SER	RES	H	2	0.000	6.548	-5.376	-0.801	input_file.cif#14.A	24
+A:15:_:GLY	A	15	GLY	RES	 	1	0.000	9.390	-2.752	-0.512	input_file.cif#15.A	24
+A:16:_:ARG	A	16	ARG	RES	S	4	0.000	7.317	-0.041	-2.355	input_file.cif#16.A	24
+A:17:_:PRO	A	17	PRO	RES	 	0	0.000	6.564	3.076	-0.168	input_file.cif#17.A	24
+A:18:_:PRO	A	18	PRO	RES	 	0	0.000	2.979	3.943	0.997	input_file.cif#18.A	24
+A:19:_:PRO	A	19	PRO	RES	 	0	0.000	0.753	6.266	-1.151	input_file.cif#19.A	24
+A:20:_:SER	A	20	SER	RES	 	0	0.000	0.416	9.847	0.221	input_file.cif#20.A	24
+A:1:_:ASN	A	1	ASN	RES	 	2	0.000	-7.636	4.584	-1.839	input_file.cif#1.A	25
+A:2:_:LEU	A	2	LEU	RES	H	4	0.000	-4.020	3.626	-2.831	input_file.cif#2.A	25
+A:3:_:TYR	A	3	TYR	RES	H	4	0.000	-3.284	2.708	0.847	input_file.cif#3.A	25
+A:4:_:ILE	A	4	ILE	RES	H	3	0.000	-5.776	-0.242	0.562	input_file.cif#4.A	25
+A:5:_:GLN	A	5	GLN	RES	H	2	0.000	-4.017	-1.607	-2.576	input_file.cif#5.A	25
+A:6:_:TRP	A	6	TRP	RES	H	6	0.000	-0.578	-0.992	-0.936	input_file.cif#6.A	25
+A:7:_:LEU	A	7	LEU	RES	H	3	0.000	-1.617	-2.951	2.219	input_file.cif#7.A	25
+A:8:_:LYS	A	8	LYS	RES	H	1	0.000	-3.232	-5.709	0.014	input_file.cif#8.A	25
+A:9:_:ASP	A	9	ASP	RES	H	3	0.000	0.212	-6.164	-1.668	input_file.cif#9.A	25
+A:10:_:GLY	A	10	GLY	RES	H	4	0.000	1.749	-6.664	1.870	input_file.cif#10.A	25
+A:11:_:GLY	A	11	GLY	RES	H	5	0.000	2.562	-2.956	2.594	input_file.cif#11.A	25
+A:12:_:PRO	A	12	PRO	RES	H	1	0.000	6.359	-2.670	3.324	input_file.cif#12.A	25
+A:13:_:SER	A	13	SER	RES	H	3	0.000	6.670	-6.282	1.972	input_file.cif#13.A	25
+A:14:_:SER	A	14	SER	RES	H	4	0.000	6.173	-4.951	-1.616	input_file.cif#14.A	25
+A:15:_:GLY	A	15	GLY	RES	T	1	0.000	9.291	-2.699	-1.108	input_file.cif#15.A	25
+A:16:_:ARG	A	16	ARG	RES	 	1	0.000	7.352	0.518	-2.058	input_file.cif#16.A	25
+A:17:_:PRO	A	17	PRO	RES	 	0	0.000	6.808	3.297	0.611	input_file.cif#17.A	25
+A:18:_:PRO	A	18	PRO	RES	 	0	0.000	3.255	4.134	1.918	input_file.cif#18.A	25
+A:19:_:PRO	A	19	PRO	RES	 	3	0.000	1.081	6.286	-0.462	input_file.cif#19.A	25
+A:20:_:SER	A	20	SER	RES	 	0	0.000	-0.080	9.471	1.411	input_file.cif#20.A	25
+A:1:_:ASN	A	1	ASN	RES	 	0	0.000	-7.401	6.806	0.244	input_file.cif#1.A	26
+A:2:_:LEU	A	2	LEU	RES	G	2	0.000	-5.260	4.361	-1.876	input_file.cif#2.A	26
+A:3:_:TYR	A	3	TYR	RES	H	5	0.000	-3.609	2.805	1.286	input_file.cif#3.A	26
+A:4:_:ILE	A	4	ILE	RES	H	1	0.000	-5.754	-0.410	1.022	input_file.cif#4.A	26
+A:5:_:GLN	A	5	GLN	RES	H	1	0.000	-4.245	-1.108	-2.469	input_file.cif#5.A	26
+A:6:_:TRP	A	6	TRP	RES	H	6	0.000	-0.694	-0.725	-1.048	input_file.cif#6.A	26
+A:7:_:LEU	A	7	LEU	RES	H	3	0.000	-1.576	-3.104	1.842	input_file.cif#7.A	26
+A:8:_:LYS	A	8	LYS	RES	H	1	0.000	-2.971	-5.620	-0.774	input_file.cif#8.A	26
+A:9:_:ASP	A	9	ASP	RES	H	0	0.000	0.578	-5.995	-2.210	input_file.cif#9.A	26
+A:10:_:GLY	A	10	GLY	RES	H	2	0.000	2.072	-6.717	1.292	input_file.cif#10.A	26
+A:11:_:GLY	A	11	GLY	RES	H	2	0.000	2.640	-3.145	2.653	input_file.cif#11.A	26
+A:12:_:PRO	A	12	PRO	RES	H	0	0.000	6.203	-2.848	4.176	input_file.cif#12.A	26
+A:13:_:SER	A	13	SER	RES	H	1	0.000	6.999	-6.365	2.789	input_file.cif#13.A	26
+A:14:_:SER	A	14	SER	RES	H	1	0.000	6.546	-5.037	-0.834	input_file.cif#14.A	26
+A:15:_:GLY	A	15	GLY	RES	S	0	0.000	9.674	-2.757	-0.898	input_file.cif#15.A	26
+A:16:_:ARG	A	16	ARG	RES	S	1	0.000	7.531	0.125	-2.365	input_file.cif#16.A	26
+A:17:_:PRO	A	17	PRO	RES	 	0	0.000	6.645	2.952	0.164	input_file.cif#17.A	26
+A:18:_:PRO	A	18	PRO	RES	 	1	0.000	2.970	3.822	1.030	input_file.cif#18.A	26
+A:19:_:PRO	A	19	PRO	RES	 	0	0.000	0.902	6.218	-1.210	input_file.cif#19.A	26
+A:20:_:SER	A	20	SER	RES	 	1	0.000	-0.627	8.275	1.694	input_file.cif#20.A	26
+A:1:_:ASN	A	1	ASN	RES	 	1	0.000	-7.783	6.096	0.185	input_file.cif#1.A	27
+A:2:_:LEU	A	2	LEU	RES	H	3	0.000	-5.176	4.163	-1.955	input_file.cif#2.A	27
+A:3:_:TYR	A	3	TYR	RES	H	3	0.000	-3.630	2.739	1.309	input_file.cif#3.A	27
+A:4:_:ILE	A	4	ILE	RES	H	3	0.000	-5.888	-0.395	0.981	input_file.cif#4.A	27
+A:5:_:GLN	A	5	GLN	RES	H	4	0.000	-4.326	-1.156	-2.473	input_file.cif#5.A	27
+A:6:_:TRP	A	6	TRP	RES	H	9	0.000	-0.764	-0.655	-1.100	input_file.cif#6.A	27
+A:7:_:LEU	A	7	LEU	RES	H	3	0.000	-1.586	-2.971	1.862	input_file.cif#7.A	27
+A:8:_:LYS	A	8	LYS	RES	H	4	0.000	-2.837	-5.530	-0.770	input_file.cif#8.A	27
+A:9:_:ASP	A	9	ASP	RES	H	6	0.000	0.742	-5.596	-2.224	input_file.cif#9.A	27
+A:10:_:GLY	A	10	GLY	RES	H	2	0.000	2.030	-6.642	1.290	input_file.cif#10.A	27
+A:11:_:GLY	A	11	GLY	RES	G	4	0.000	2.700	-3.121	2.734	input_file.cif#11.A	27
+A:12:_:PRO	A	12	PRO	RES	H	0	0.000	6.378	-2.719	3.922	input_file.cif#12.A	27
+A:13:_:SER	A	13	SER	RES	H	1	0.000	7.062	-6.391	2.910	input_file.cif#13.A	27
+A:14:_:SER	A	14	SER	RES	H	2	0.000	6.610	-5.482	-0.834	input_file.cif#14.A	27
+A:15:_:GLY	A	15	GLY	RES	H	0	0.000	9.672	-3.163	-1.282	input_file.cif#15.A	27
+A:16:_:ARG	A	16	ARG	RES	 	4	0.000	7.498	-0.025	-1.884	input_file.cif#16.A	27
+A:17:_:PRO	A	17	PRO	RES	 	1	0.000	6.585	3.097	0.228	input_file.cif#17.A	27
+A:18:_:PRO	A	18	PRO	RES	 	1	0.000	2.910	3.955	1.082	input_file.cif#18.A	27
+A:19:_:PRO	A	19	PRO	RES	 	1	0.000	0.771	6.284	-1.164	input_file.cif#19.A	27
+A:20:_:SER	A	20	SER	RES	 	0	0.000	-0.336	8.429	1.868	input_file.cif#20.A	27
+A:1:_:ASN	A	1	ASN	RES	 	0	0.000	-5.414	7.451	-0.654	input_file.cif#1.A	28
+A:2:_:LEU	A	2	LEU	RES	 	2	0.000	-4.421	4.095	-2.428	input_file.cif#2.A	28
+A:3:_:TYR	A	3	TYR	RES	H	4	0.000	-3.489	2.632	1.037	input_file.cif#3.A	28
+A:4:_:ILE	A	4	ILE	RES	H	2	0.000	-5.800	-0.440	0.662	input_file.cif#4.A	28
+A:5:_:GLN	A	5	GLN	RES	H	1	0.000	-4.009	-1.246	-2.650	input_file.cif#5.A	28
+A:6:_:TRP	A	6	TRP	RES	H	6	0.000	-0.573	-0.794	-0.989	input_file.cif#6.A	28
+A:7:_:LEU	A	7	LEU	RES	H	3	0.000	-1.647	-3.114	1.911	input_file.cif#7.A	28
+A:8:_:LYS	A	8	LYS	RES	H	2	0.000	-2.892	-5.859	-0.562	input_file.cif#8.A	28
+A:9:_:ASP	A	9	ASP	RES	H	1	0.000	0.739	-6.198	-1.825	input_file.cif#9.A	28
+A:10:_:GLY	A	10	GLY	RES	H	3	0.000	1.944	-6.694	1.851	input_file.cif#10.A	28
+A:11:_:GLY	A	11	GLY	RES	H	3	0.000	2.528	-2.992	2.832	input_file.cif#11.A	28
+A:12:_:PRO	A	12	PRO	RES	H	0	0.000	6.137	-2.792	4.262	input_file.cif#12.A	28
+A:13:_:SER	A	13	SER	RES	H	2	0.000	6.884	-6.142	2.489	input_file.cif#13.A	28
+A:14:_:SER	A	14	SER	RES	H	3	0.000	5.884	-4.748	-0.996	input_file.cif#14.A	28
+A:15:_:GLY	A	15	GLY	RES	S	0	0.000	9.222	-2.961	-1.807	input_file.cif#15.A	28
+A:16:_:ARG	A	16	ARG	RES	S	1	0.000	7.340	0.378	-2.469	input_file.cif#16.A	28
+A:17:_:PRO	A	17	PRO	RES	 	0	0.000	6.738	3.134	0.201	input_file.cif#17.A	28
+A:18:_:PRO	A	18	PRO	RES	 	1	0.000	3.168	3.868	1.495	input_file.cif#18.A	28
+A:19:_:PRO	A	19	PRO	RES	 	0	0.000	0.986	6.406	-0.419	input_file.cif#19.A	28
+A:20:_:SER	A	20	SER	RES	 	0	0.000	-0.125	9.511	1.572	input_file.cif#20.A	28
+A:1:_:ASN	A	1	ASN	RES	 	0	0.000	-7.571	6.051	-0.495	input_file.cif#1.A	29
+A:2:_:LEU	A	2	LEU	RES	G	2	0.000	-4.666	4.117	-2.283	input_file.cif#2.A	29
+A:3:_:TYR	A	3	TYR	RES	H	4	0.000	-3.458	2.724	1.133	input_file.cif#3.A	29
+A:4:_:ILE	A	4	ILE	RES	H	1	0.000	-5.834	-0.306	0.713	input_file.cif#4.A	29
+A:5:_:GLN	A	5	GLN	RES	H	1	0.000	-4.198	-1.155	-2.673	input_file.cif#5.A	29
+A:6:_:TRP	A	6	TRP	RES	H	8	0.000	-0.715	-0.699	-1.098	input_file.cif#6.A	29
+A:7:_:LEU	A	7	LEU	RES	H	2	0.000	-1.617	-3.007	1.855	input_file.cif#7.A	29
+A:8:_:LYS	A	8	LYS	RES	H	1	0.000	-3.020	-5.583	-0.687	input_file.cif#8.A	29
+A:9:_:ASP	A	9	ASP	RES	H	2	0.000	0.544	-6.266	-1.987	input_file.cif#9.A	29
+A:10:_:GLY	A	10	GLY	RES	H	3	0.000	2.142	-6.803	1.484	input_file.cif#10.A	29
+A:11:_:GLY	A	11	GLY	RES	G	3	0.000	2.465	-3.422	3.328	input_file.cif#11.A	29
+A:12:_:PRO	A	12	PRO	RES	G	0	0.000	6.184	-2.626	4.136	input_file.cif#12.A	29
+A:13:_:SER	A	13	SER	RES	G	2	0.000	7.187	-6.064	2.673	input_file.cif#13.A	29
+A:14:_:SER	A	14	SER	RES	G	4	0.000	6.122	-4.843	-0.863	input_file.cif#14.A	29
+A:15:_:GLY	A	15	GLY	RES	S	0	0.000	9.401	-2.924	-1.649	input_file.cif#15.A	29
+A:16:_:ARG	A	16	ARG	RES	S	1	0.000	7.364	0.285	-2.472	input_file.cif#16.A	29
+A:17:_:PRO	A	17	PRO	RES	 	0	0.000	6.749	3.076	0.161	input_file.cif#17.A	29
+A:18:_:PRO	A	18	PRO	RES	 	1	0.000	3.173	3.861	1.391	input_file.cif#18.A	29
+A:19:_:PRO	A	19	PRO	RES	 	1	0.000	1.036	6.414	-0.536	input_file.cif#19.A	29
+A:20:_:SER	A	20	SER	RES	 	0	0.000	0.166	9.881	0.915	input_file.cif#20.A	29
+A:1:_:ASN	A	1	ASN	RES	 	1	0.000	-7.483	6.556	-0.103	input_file.cif#1.A	30
+A:2:_:LEU	A	2	LEU	RES	G	1	0.000	-5.100	4.220	-2.108	input_file.cif#2.A	30
+A:3:_:TYR	A	3	TYR	RES	H	4	0.000	-3.657	2.701	1.145	input_file.cif#3.A	30
+A:4:_:ILE	A	4	ILE	RES	H	3	0.000	-5.920	-0.410	0.824	input_file.cif#4.A	30
+A:5:_:GLN	A	5	GLN	RES	H	0	0.000	-4.416	-1.240	-2.624	input_file.cif#5.A	30
+A:6:_:TRP	A	6	TRP	RES	H	7	0.000	-0.876	-0.690	-1.231	input_file.cif#6.A	30
+A:7:_:LEU	A	7	LEU	RES	H	3	0.000	-1.593	-3.012	1.768	input_file.cif#7.A	30
+A:8:_:LYS	A	8	LYS	RES	H	2	0.000	-2.959	-5.749	-0.626	input_file.cif#8.A	30
+A:9:_:ASP	A	9	ASP	RES	H	5	0.000	0.598	-6.026	-2.075	input_file.cif#9.A	30
+A:10:_:GLY	A	10	GLY	RES	H	3	0.000	1.994	-6.734	1.492	input_file.cif#10.A	30
+A:11:_:GLY	A	11	GLY	RES	G	2	0.000	2.630	-3.135	2.756	input_file.cif#11.A	30
+A:12:_:PRO	A	12	PRO	RES	G	0	0.000	6.237	-2.551	4.077	input_file.cif#12.A	30
+A:13:_:SER	A	13	SER	RES	G	1	0.000	7.196	-6.128	2.940	input_file.cif#13.A	30
+A:14:_:SER	A	14	SER	RES	G	3	0.000	6.584	-5.293	-0.785	input_file.cif#14.A	30
+A:15:_:GLY	A	15	GLY	RES	T	0	0.000	9.650	-3.115	-1.655	input_file.cif#15.A	30
+A:16:_:ARG	A	16	ARG	RES	 	4	0.000	7.417	0.014	-2.096	input_file.cif#16.A	30
+A:17:_:PRO	A	17	PRO	RES	 	1	0.000	6.709	3.107	0.135	input_file.cif#17.A	30
+A:18:_:PRO	A	18	PRO	RES	 	0	0.000	3.107	3.958	1.273	input_file.cif#18.A	30
+A:19:_:PRO	A	19	PRO	RES	 	0	0.000	0.965	6.565	-0.607	input_file.cif#19.A	30
+A:20:_:SER	A	20	SER	RES	 	0	0.000	0.705	10.139	0.828	input_file.cif#20.A	30
+A:1:_:ASN	A	1	ASN	RES	 	0	0.000	-6.878	6.859	-0.640	input_file.cif#1.A	31
+A:2:_:LEU	A	2	LEU	RES	G	3	0.000	-4.723	4.133	-2.374	input_file.cif#2.A	31
+A:3:_:TYR	A	3	TYR	RES	H	4	0.000	-3.550	2.591	0.970	input_file.cif#3.A	31
+A:4:_:ILE	A	4	ILE	RES	H	1	0.000	-5.916	-0.442	0.543	input_file.cif#4.A	31
+A:5:_:GLN	A	5	GLN	RES	H	4	0.000	-4.117	-1.514	-2.693	input_file.cif#5.A	31
+A:6:_:TRP	A	6	TRP	RES	H	7	0.000	-0.678	-0.829	-1.093	input_file.cif#6.A	31
+A:7:_:LEU	A	7	LEU	RES	H	3	0.000	-1.587	-3.012	1.954	input_file.cif#7.A	31
+A:8:_:LYS	A	8	LYS	RES	H	2	0.000	-3.105	-5.716	-0.398	input_file.cif#8.A	31
+A:9:_:ASP	A	9	ASP	RES	H	1	0.000	0.398	-6.223	-1.930	input_file.cif#9.A	31
+A:10:_:GLY	A	10	GLY	RES	H	2	0.000	1.939	-6.705	1.606	input_file.cif#10.A	31
+A:11:_:GLY	A	11	GLY	RES	H	3	0.000	2.626	-3.057	2.710	input_file.cif#11.A	31
+A:12:_:PRO	A	12	PRO	RES	H	2	0.000	6.259	-2.630	4.030	input_file.cif#12.A	31
+A:13:_:SER	A	13	SER	RES	H	1	0.000	7.043	-6.156	2.670	input_file.cif#13.A	31
+A:14:_:SER	A	14	SER	RES	H	2	0.000	6.214	-4.963	-0.941	input_file.cif#14.A	31
+A:15:_:GLY	A	15	GLY	RES	S	1	0.000	9.356	-2.717	-1.330	input_file.cif#15.A	31
+A:16:_:ARG	A	16	ARG	RES	S	1	0.000	7.196	0.244	-2.606	input_file.cif#16.A	31
+A:17:_:PRO	A	17	PRO	RES	 	0	0.000	6.809	3.113	0.002	input_file.cif#17.A	31
+A:18:_:PRO	A	18	PRO	RES	 	1	0.000	3.415	3.979	1.661	input_file.cif#18.A	31
+A:19:_:PRO	A	19	PRO	RES	 	0	0.000	1.131	6.433	-0.268	input_file.cif#19.A	31
+A:20:_:SER	A	20	SER	RES	 	0	0.000	0.360	9.847	1.362	input_file.cif#20.A	31
+A:1:_:ASN	A	1	ASN	RES	 	1	0.000	-7.569	5.905	-0.155	input_file.cif#1.A	32
+A:2:_:LEU	A	2	LEU	RES	H	2	0.000	-4.771	4.070	-2.118	input_file.cif#2.A	32
+A:3:_:TYR	A	3	TYR	RES	H	2	0.000	-3.452	2.660	1.248	input_file.cif#3.A	32
+A:4:_:ILE	A	4	ILE	RES	H	2	0.000	-5.931	-0.293	0.853	input_file.cif#4.A	32
+A:5:_:GLN	A	5	GLN	RES	H	2	0.000	-4.319	-1.165	-2.532	input_file.cif#5.A	32
+A:6:_:TRP	A	6	TRP	RES	H	7	0.000	-0.783	-0.667	-1.057	input_file.cif#6.A	32
+A:7:_:LEU	A	7	LEU	RES	H	2	0.000	-1.654	-3.093	1.806	input_file.cif#7.A	32
+A:8:_:LYS	A	8	LYS	RES	H	2	0.000	-2.753	-5.637	-0.920	input_file.cif#8.A	32
+A:9:_:ASP	A	9	ASP	RES	H	1	0.000	0.910	-5.749	-2.133	input_file.cif#9.A	32
+A:10:_:GLY	A	10	GLY	RES	H	2	0.000	1.961	-6.712	1.480	input_file.cif#10.A	32
+A:11:_:GLY	A	11	GLY	RES	G	1	0.000	2.450	-3.174	2.973	input_file.cif#11.A	32
+A:12:_:PRO	A	12	PRO	RES	H	0	0.000	6.116	-2.537	4.125	input_file.cif#12.A	32
+A:13:_:SER	A	13	SER	RES	H	0	0.000	7.202	-6.073	2.992	input_file.cif#13.A	32
+A:14:_:SER	A	14	SER	RES	H	2	0.000	6.405	-5.266	-0.708	input_file.cif#14.A	32
+A:15:_:GLY	A	15	GLY	RES	H	0	0.000	9.474	-3.182	-1.792	input_file.cif#15.A	32
+A:16:_:ARG	A	16	ARG	RES	S	1	0.000	7.354	0.032	-2.244	input_file.cif#16.A	32
+A:17:_:PRO	A	17	PRO	RES	 	1	0.000	6.655	3.106	0.019	input_file.cif#17.A	32
+A:18:_:PRO	A	18	PRO	RES	 	1	0.000	3.102	3.903	1.304	input_file.cif#18.A	32
+A:19:_:PRO	A	19	PRO	RES	 	1	0.000	0.856	6.338	-0.670	input_file.cif#19.A	32
+A:20:_:SER	A	20	SER	RES	 	0	0.000	-0.113	9.835	0.640	input_file.cif#20.A	32
+A:1:_:ASN	A	1	ASN	RES	 	1	0.000	-8.702	3.862	-0.904	input_file.cif#1.A	33
+A:2:_:LEU	A	2	LEU	RES	H	3	0.000	-5.070	4.110	-2.206	input_file.cif#2.A	33
+A:3:_:TYR	A	3	TYR	RES	H	5	0.000	-3.672	2.802	1.139	input_file.cif#3.A	33
+A:4:_:ILE	A	4	ILE	RES	H	1	0.000	-5.797	-0.427	0.890	input_file.cif#4.A	33
+A:5:_:GLN	A	5	GLN	RES	H	1	0.000	-4.265	-1.071	-2.589	input_file.cif#5.A	33
+A:6:_:TRP	A	6	TRP	RES	H	8	0.000	-0.735	-0.642	-1.083	input_file.cif#6.A	33
+A:7:_:LEU	A	7	LEU	RES	H	3	0.000	-1.582	-3.011	1.838	input_file.cif#7.A	33
+A:8:_:LYS	A	8	LYS	RES	H	1	0.000	-2.884	-5.655	-0.692	input_file.cif#8.A	33
+A:9:_:ASP	A	9	ASP	RES	H	0	0.000	0.696	-6.034	-2.059	input_file.cif#9.A	33
+A:10:_:GLY	A	10	GLY	RES	H	2	0.000	2.125	-6.667	1.501	input_file.cif#10.A	33
+A:11:_:GLY	A	11	GLY	RES	H	4	0.000	2.535	-3.041	2.809	input_file.cif#11.A	33
+A:12:_:PRO	A	12	PRO	RES	H	0	0.000	6.173	-2.628	4.110	input_file.cif#12.A	33
+A:13:_:SER	A	13	SER	RES	H	1	0.000	7.032	-6.120	2.719	input_file.cif#13.A	33
+A:14:_:SER	A	14	SER	RES	H	2	0.000	6.165	-5.055	-0.915	input_file.cif#14.A	33
+A:15:_:GLY	A	15	GLY	RES	T	0	0.000	9.474	-3.213	-1.669	input_file.cif#15.A	33
+A:16:_:ARG	A	16	ARG	RES	S	1	0.000	7.568	0.140	-2.156	input_file.cif#16.A	33
+A:17:_:PRO	A	17	PRO	RES	 	0	0.000	6.828	3.050	0.313	input_file.cif#17.A	33
+A:18:_:PRO	A	18	PRO	RES	 	1	0.000	3.221	3.898	1.414	input_file.cif#18.A	33
+A:19:_:PRO	A	19	PRO	RES	 	2	0.000	1.139	6.367	-0.722	input_file.cif#19.A	33
+A:20:_:SER	A	20	SER	RES	 	0	0.000	-0.379	8.118	2.401	input_file.cif#20.A	33
+A:1:_:ASN	A	1	ASN	RES	 	0	0.000	-6.880	6.904	-1.045	input_file.cif#1.A	34
+A:2:_:LEU	A	2	LEU	RES	G	1	0.000	-4.517	4.062	-2.295	input_file.cif#2.A	34
+A:3:_:TYR	A	3	TYR	RES	H	2	0.000	-3.557	2.674	1.187	input_file.cif#3.A	34
+A:4:_:ILE	A	4	ILE	RES	H	1	0.000	-5.917	-0.354	0.736	input_file.cif#4.A	34
+A:5:_:GLN	A	5	GLN	RES	H	1	0.000	-4.159	-1.301	-2.575	input_file.cif#5.A	34
+A:6:_:TRP	A	6	TRP	RES	H	7	0.000	-0.707	-0.761	-0.942	input_file.cif#6.A	34
+A:7:_:LEU	A	7	LEU	RES	H	2	0.000	-1.690	-3.054	1.991	input_file.cif#7.A	34
+A:8:_:LYS	A	8	LYS	RES	H	1	0.000	-3.130	-5.587	-0.573	input_file.cif#8.A	34
+A:9:_:ASP	A	9	ASP	RES	H	7	0.000	0.415	-5.850	-2.062	input_file.cif#9.A	34
+A:10:_:GLY	A	10	GLY	RES	H	3	0.000	1.887	-6.698	1.422	input_file.cif#10.A	34
+A:11:_:GLY	A	11	GLY	RES	G	1	0.000	2.490	-3.202	2.957	input_file.cif#11.A	34
+A:12:_:PRO	A	12	PRO	RES	G	0	0.000	6.124	-2.708	4.301	input_file.cif#12.A	34
+A:13:_:SER	A	13	SER	RES	G	1	0.000	7.175	-6.119	2.726	input_file.cif#13.A	34
+A:14:_:SER	A	14	SER	RES	T	4	0.000	6.719	-5.256	-1.005	input_file.cif#14.A	34
+A:15:_:GLY	A	15	GLY	RES	S	0	0.000	9.714	-2.925	-1.800	input_file.cif#15.A	34
+A:16:_:ARG	A	16	ARG	RES	 	3	0.000	7.352	0.126	-2.173	input_file.cif#16.A	34
+A:17:_:PRO	A	17	PRO	RES	 	0	0.000	6.623	3.182	0.103	input_file.cif#17.A	34
+A:18:_:PRO	A	18	PRO	RES	 	1	0.000	3.027	3.921	1.331	input_file.cif#18.A	34
+A:19:_:PRO	A	19	PRO	RES	 	1	0.000	0.784	6.306	-0.729	input_file.cif#19.A	34
+A:20:_:SER	A	20	SER	RES	 	0	0.000	0.016	9.748	0.833	input_file.cif#20.A	34
+A:1:_:ASN	A	1	ASN	RES	 	1	0.000	-6.755	6.451	-0.528	input_file.cif#1.A	35
+A:2:_:LEU	A	2	LEU	RES	H	3	0.000	-4.393	3.972	-2.370	input_file.cif#2.A	35
+A:3:_:TYR	A	3	TYR	RES	H	6	0.000	-3.274	2.565	1.082	input_file.cif#3.A	35
+A:4:_:ILE	A	4	ILE	RES	H	2	0.000	-5.850	-0.301	0.744	input_file.cif#4.A	35
+A:5:_:GLN	A	5	GLN	RES	H	1	0.000	-4.220	-1.377	-2.577	input_file.cif#5.A	35
+A:6:_:TRP	A	6	TRP	RES	H	6	0.000	-0.699	-0.882	-1.080	input_file.cif#6.A	35
+A:7:_:LEU	A	7	LEU	RES	H	4	0.000	-1.640	-3.112	1.929	input_file.cif#7.A	35
+A:8:_:LYS	A	8	LYS	RES	H	1	0.000	-3.034	-5.773	-0.517	input_file.cif#8.A	35
+A:9:_:ASP	A	9	ASP	RES	H	1	0.000	0.519	-6.121	-1.972	input_file.cif#9.A	35
+A:10:_:GLY	A	10	GLY	RES	H	4	0.000	2.035	-6.695	1.561	input_file.cif#10.A	35
+A:11:_:GLY	A	11	GLY	RES	H	5	0.000	2.482	-3.079	2.879	input_file.cif#11.A	35
+A:12:_:PRO	A	12	PRO	RES	H	0	0.000	6.134	-2.696	4.170	input_file.cif#12.A	35
+A:13:_:SER	A	13	SER	RES	H	2	0.000	7.010	-6.099	2.562	input_file.cif#13.A	35
+A:14:_:SER	A	14	SER	RES	H	5	0.000	6.048	-4.754	-0.957	input_file.cif#14.A	35
+A:15:_:GLY	A	15	GLY	RES	S	0	0.000	9.361	-2.835	-1.585	input_file.cif#15.A	35
+A:16:_:ARG	A	16	ARG	RES	S	1	0.000	7.367	0.368	-2.493	input_file.cif#16.A	35
+A:17:_:PRO	A	17	PRO	RES	 	0	0.000	6.705	2.983	0.318	input_file.cif#17.A	35
+A:18:_:PRO	A	18	PRO	RES	 	0	0.000	3.098	3.869	1.415	input_file.cif#18.A	35
+A:19:_:PRO	A	19	PRO	RES	 	2	0.000	0.978	6.448	-0.545	input_file.cif#19.A	35
+A:20:_:SER	A	20	SER	RES	 	0	0.000	-0.287	8.373	2.572	input_file.cif#20.A	35
+A:1:_:ASN	A	1	ASN	RES	 	2	0.000	-8.415	4.187	-0.632	input_file.cif#1.A	36
+A:2:_:LEU	A	2	LEU	RES	H	2	0.000	-4.809	4.093	-2.051	input_file.cif#2.A	36
+A:3:_:TYR	A	3	TYR	RES	H	3	0.000	-3.443	2.669	1.265	input_file.cif#3.A	36
+A:4:_:ILE	A	4	ILE	RES	H	3	0.000	-5.848	-0.352	0.877	input_file.cif#4.A	36
+A:5:_:GLN	A	5	GLN	RES	H	3	0.000	-4.299	-1.207	-2.540	input_file.cif#5.A	36
+A:6:_:TRP	A	6	TRP	RES	H	8	0.000	-0.764	-0.708	-1.080	input_file.cif#6.A	36
+A:7:_:LEU	A	7	LEU	RES	H	3	0.000	-1.546	-3.008	1.915	input_file.cif#7.A	36
+A:8:_:LYS	A	8	LYS	RES	H	4	0.000	-3.015	-5.563	-0.608	input_file.cif#8.A	36
+A:9:_:ASP	A	9	ASP	RES	H	2	0.000	0.518	-5.887	-2.146	input_file.cif#9.A	36
+A:10:_:GLY	A	10	GLY	RES	H	2	0.000	1.990	-6.622	1.367	input_file.cif#10.A	36
+A:11:_:GLY	A	11	GLY	RES	H	3	0.000	2.661	-3.046	2.655	input_file.cif#11.A	36
+A:12:_:PRO	A	12	PRO	RES	H	1	0.000	6.347	-2.733	3.841	input_file.cif#12.A	36
+A:13:_:SER	A	13	SER	RES	H	1	0.000	7.011	-6.363	2.690	input_file.cif#13.A	36
+A:14:_:SER	A	14	SER	RES	H	1	0.000	6.506	-5.250	-0.977	input_file.cif#14.A	36
+A:15:_:GLY	A	15	GLY	RES	 	1	0.000	9.425	-2.723	-0.566	input_file.cif#15.A	36
+A:16:_:ARG	A	16	ARG	RES	S	1	0.000	7.437	0.089	-2.339	input_file.cif#16.A	36
+A:17:_:PRO	A	17	PRO	RES	 	0	0.000	6.725	3.069	0.048	input_file.cif#17.A	36
+A:18:_:PRO	A	18	PRO	RES	 	0	0.000	3.118	3.895	1.157	input_file.cif#18.A	36
+A:19:_:PRO	A	19	PRO	RES	 	2	0.000	0.910	6.335	-0.849	input_file.cif#19.A	36
+A:20:_:SER	A	20	SER	RES	 	0	0.000	0.698	9.933	0.494	input_file.cif#20.A	36
+A:1:_:ASN	A	1	ASN	RES	 	0	0.000	-6.588	7.022	-0.767	input_file.cif#1.A	37
+A:2:_:LEU	A	2	LEU	RES	G	5	0.000	-4.527	4.127	-2.262	input_file.cif#2.A	37
+A:3:_:TYR	A	3	TYR	RES	H	2	0.000	-3.594	2.622	1.192	input_file.cif#3.A	37
+A:4:_:ILE	A	4	ILE	RES	H	1	0.000	-5.875	-0.433	0.687	input_file.cif#4.A	37
+A:5:_:GLN	A	5	GLN	RES	H	3	0.000	-4.177	-1.207	-2.684	input_file.cif#5.A	37
+A:6:_:TRP	A	6	TRP	RES	H	7	0.000	-0.720	-0.701	-1.084	input_file.cif#6.A	37
+A:7:_:LEU	A	7	LEU	RES	H	1	0.000	-1.635	-3.091	1.807	input_file.cif#7.A	37
+A:8:_:LYS	A	8	LYS	RES	H	1	0.000	-3.029	-5.712	-0.710	input_file.cif#8.A	37
+A:9:_:ASP	A	9	ASP	RES	H	0	0.000	0.553	-6.406	-1.949	input_file.cif#9.A	37
+A:10:_:GLY	A	10	GLY	RES	H	3	0.000	2.156	-6.749	1.545	input_file.cif#10.A	37
+A:11:_:GLY	A	11	GLY	RES	H	4	0.000	2.499	-3.312	3.269	input_file.cif#11.A	37
+A:12:_:PRO	A	12	PRO	RES	H	0	0.000	6.229	-2.487	3.995	input_file.cif#12.A	37
+A:13:_:SER	A	13	SER	RES	H	2	0.000	7.225	-5.960	2.613	input_file.cif#13.A	37
+A:14:_:SER	A	14	SER	RES	H	3	0.000	5.985	-4.853	-0.893	input_file.cif#14.A	37
+A:15:_:GLY	A	15	GLY	RES	S	0	0.000	9.308	-2.922	-1.397	input_file.cif#15.A	37
+A:16:_:ARG	A	16	ARG	RES	S	1	0.000	7.373	0.232	-2.551	input_file.cif#16.A	37
+A:17:_:PRO	A	17	PRO	RES	 	0	0.000	6.752	3.031	0.091	input_file.cif#17.A	37
+A:18:_:PRO	A	18	PRO	RES	 	2	0.000	3.169	3.836	1.328	input_file.cif#18.A	37
+A:19:_:PRO	A	19	PRO	RES	 	1	0.000	0.934	6.477	-0.411	input_file.cif#19.A	37
+A:20:_:SER	A	20	SER	RES	 	0	0.000	-0.121	8.153	2.922	input_file.cif#20.A	37
+A:1:_:ASN	A	1	ASN	RES	 	0	0.000	-7.338	6.541	-1.083	input_file.cif#1.A	38
+A:2:_:LEU	A	2	LEU	RES	G	3	0.000	-4.935	3.924	-2.679	input_file.cif#2.A	38
+A:3:_:TYR	A	3	TYR	RES	H	4	0.000	-3.724	2.648	0.772	input_file.cif#3.A	38
+A:4:_:ILE	A	4	ILE	RES	H	1	0.000	-5.867	-0.543	0.382	input_file.cif#4.A	38
+A:5:_:GLN	A	5	GLN	RES	H	3	0.000	-3.867	-1.563	-2.751	input_file.cif#5.A	38
+A:6:_:TRP	A	6	TRP	RES	H	9	0.000	-0.525	-0.892	-0.956	input_file.cif#6.A	38
+A:7:_:LEU	A	7	LEU	RES	H	2	0.000	-1.631	-2.979	2.085	input_file.cif#7.A	38
+A:8:_:LYS	A	8	LYS	RES	H	1	0.000	-3.040	-5.736	-0.258	input_file.cif#8.A	38
+A:9:_:ASP	A	9	ASP	RES	H	1	0.000	0.450	-6.224	-1.807	input_file.cif#9.A	38
+A:10:_:GLY	A	10	GLY	RES	H	3	0.000	1.947	-6.573	1.759	input_file.cif#10.A	38
+A:11:_:GLY	A	11	GLY	RES	G	5	0.000	2.486	-2.885	2.787	input_file.cif#11.A	38
+A:12:_:PRO	A	12	PRO	RES	G	0	0.000	6.239	-2.387	3.665	input_file.cif#12.A	38
+A:13:_:SER	A	13	SER	RES	G	2	0.000	6.963	-6.030	2.565	input_file.cif#13.A	38
+A:14:_:SER	A	14	SER	RES	G	2	0.000	6.094	-5.070	-1.091	input_file.cif#14.A	38
+A:15:_:GLY	A	15	GLY	RES	T	0	0.000	9.242	-3.043	-2.046	input_file.cif#15.A	38
+A:16:_:ARG	A	16	ARG	RES	 	2	0.000	7.012	0.119	-2.159	input_file.cif#16.A	38
+A:17:_:PRO	A	17	PRO	RES	 	0	0.000	6.885	3.210	0.196	input_file.cif#17.A	38
+A:18:_:PRO	A	18	PRO	RES	 	0	0.000	3.682	4.205	2.144	input_file.cif#18.A	38
+A:19:_:PRO	A	19	PRO	RES	 	2	0.000	1.331	6.356	-0.052	input_file.cif#19.A	38
+A:20:_:SER	A	20	SER	RES	 	0	0.000	0.068	9.633	1.546	input_file.cif#20.A	38

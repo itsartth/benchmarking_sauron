@@ -1,0 +1,21 @@
+NodeId	Chain	Position	Residue	Type	Dssp	Degree	Bfactor_CA	x	y	z	pdbFileName	Model
+A:1:_:ASN	A	1	ASN	RES	 	4	0.000	-8.608	3.135	-1.618	input_file.cif#1.A	1
+A:2:_:LEU	A	2	LEU	RES	H	2	0.000	-4.923	4.002	-2.452	input_file.cif#2.A	1
+A:3:_:TYR	A	3	TYR	RES	H	6	0.000	-3.690	2.738	0.981	input_file.cif#3.A	1
+A:4:_:ILE	A	4	ILE	RES	H	4	0.000	-5.857	-0.449	0.613	input_file.cif#4.A	1
+A:5:_:GLN	A	5	GLN	RES	H	3	0.000	-4.122	-1.167	-2.743	input_file.cif#5.A	1
+A:6:_:TRP	A	6	TRP	RES	H	12	0.000	-0.716	-0.631	-0.993	input_file.cif#6.A	1
+A:7:_:LEU	A	7	LEU	RES	H	3	0.000	-1.641	-2.932	1.963	input_file.cif#7.A	1
+A:8:_:LYS	A	8	LYS	RES	H	3	0.000	-3.024	-5.791	-0.269	input_file.cif#8.A	1
+A:9:_:ASP	A	9	ASP	RES	H	1	0.000	0.466	-6.016	-1.905	input_file.cif#9.A	1
+A:10:_:GLY	A	10	GLY	RES	H	3	0.000	2.060	-6.618	1.593	input_file.cif#10.A	1
+A:11:_:GLY	A	11	GLY	RES	G	2	0.000	2.626	-2.967	2.723	input_file.cif#11.A	1
+A:12:_:PRO	A	12	PRO	RES	G	0	0.000	6.333	-2.533	3.806	input_file.cif#12.A	1
+A:13:_:SER	A	13	SER	RES	G	2	0.000	7.049	-6.179	2.704	input_file.cif#13.A	1
+A:14:_:SER	A	14	SER	RES	G	1	0.000	6.389	-5.315	-1.015	input_file.cif#14.A	1
+A:15:_:GLY	A	15	GLY	RES	T	0	0.000	9.451	-3.116	-1.870	input_file.cif#15.A	1
+A:16:_:ARG	A	16	ARG	RES	 	2	0.000	7.289	0.084	-2.054	input_file.cif#16.A	1
+A:17:_:PRO	A	17	PRO	RES	 	1	0.000	6.782	3.088	0.345	input_file.cif#17.A	1
+A:18:_:PRO	A	18	PRO	RES	 	0	0.000	3.287	4.031	1.686	input_file.cif#18.A	1
+A:19:_:PRO	A	19	PRO	RES	 	1	0.000	1.185	6.543	-0.353	input_file.cif#19.A	1
+A:20:_:SER	A	20	SER	RES	 	0	0.000	0.852	10.027	1.285	input_file.cif#20.A	1
